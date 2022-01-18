@@ -1,0 +1,4 @@
+https://towardsdatascience.com/discussing-the-champion-specific-player-win-rate-factor-in-league-of-legends-match-prediction-3d83d7e50a94
+https://medium.com/@montane/building-a-league-data-scrapper-c59baf033842
+https://medium.com/@_marcusft/how-i-created-a-league-of-legends-high-elo-database-using-scrapy-3becdee8f385
+https://developer.riotgames.com/docs/lol
