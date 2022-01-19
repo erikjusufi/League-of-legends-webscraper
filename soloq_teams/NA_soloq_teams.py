@@ -54,7 +54,7 @@ matches = {
 }
 regions_name = ["North America", "Europe", "Korea", "Brazil", "Oceania", "Turkey"]
 
-for i in range(len(regions_name)):
+for i in range(1):
     regions = driver.find_elements(By.CLASS_NAME, "specific-team")
     print(len(regions))
     teams = regions[i].find_elements(By.TAG_NAME, "a")
@@ -90,7 +90,7 @@ for i in range(len(regions_name)):
 
         num_win = 0
         num_loss = 0
-        for j in range(12):
+        for j in range(3):
             load_more_games()
         holders = s_driver.find_elements(By.CLASS_NAME, "build-holder")
         for holder in holders:
