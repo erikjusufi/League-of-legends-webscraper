@@ -15,14 +15,14 @@ s_driver = webdriver.Chrome(PATH1)
 #file = open("teams.txt", "w", encoding="utf-8")
 driver.get("https://www.probuilds.net/teams")
 def load_more_games():
+    time.sleep(1)
     try:
-        element = WebDriverWait(driver, 10).until(
+        element = WebDriverWait(s_driver, 10).until(
             EC.presence_of_element_located((By.ID, "moreMatchesButton"))
         )
         element.click()
     except:
         pass
-
     time.sleep(1)
 dataset = {
     "team_id":[],
@@ -56,16 +56,18 @@ regions_name = ["North America", "Europe", "Korea", "Brazil", "Oceania", "Turkey
 
 for i in range(len(regions_name)):
     regions = driver.find_elements(By.CLASS_NAME, "specific-team")
+    print(len(regions))
     teams = regions[i].find_elements(By.TAG_NAME, "a")
     for team in teams:
         regions = driver.find_elements(By.CLASS_NAME, "specific-team")
         teams = regions[i].find_elements(By.TAG_NAME, "a")
         team_id = team.get_attribute("href").split("/")[-1]
         team_name = team.text
+        print(team)
         dataset['team_id'].append(team_id)
         dataset['team_name'].append(team_name)
         dataset['region'].append(regions_name[i])
-        time.sleep(2)
+        time.sleep(1)
         s_driver.get("https://www.probuilds.net/teams/details/" + str(team_id))
         player_search = s_driver.find_element(By.CLASS_NAME, "pro-player-search-results")
         players = player_search.find_elements(By.TAG_NAME, "li")
@@ -78,18 +80,19 @@ for i in range(len(regions_name)):
             player_name = name.text
             ids.append(id)
             names.append(player_name)
-            dataset["players_id"].append(ids)
-            dataset["players"].append(players)
+            
             data_player["player_id"].append(id)
             data_player["player_name"].append(player_name)
             data_player["team"].append(team_name)
             data_player["team_id"].append(team_id)
-            
+        dataset["players_id"].append(ids)
+        dataset["players"].append(names)    
 
         num_win = 0
         num_loss = 0
-        load_more_games()
-        holders = driver.find_elements(By.CLASS_NAME, "build-holder")
+        for j in range(12):
+            load_more_games()
+        holders = s_driver.find_elements(By.CLASS_NAME, "build-holder")
         for holder in holders:
             block = holder.find_element(By.CLASS_NAME, "block")
             name_block = block.find_element(By.CSS_SELECTOR, ".player.gold")
@@ -108,7 +111,7 @@ for i in range(len(regions_name)):
             matches["champion1"].append(champ1)
             matches["champion2"].append(champ2)
 
-            kda_holder = block.find_element(By.CLASS_NAME, "opponent")
+            kda_holder = block.find_element(By.CLASS_NAME, "kda")
             kills = kda_holder.find_element(By.CLASS_NAME, "kill").text
             deaths = kda_holder.find_element(By.CLASS_NAME, "death").text
             assists = kda_holder.find_element(By.CLASS_NAME, "assists").text

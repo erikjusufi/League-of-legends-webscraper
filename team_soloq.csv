@@ -1,0 +1,98 @@
+,team_id,team_name,region,players_id,players,wins,loses
+0,189,FlyQuest,North America,"['4661', '5611', '5861', '6123', '6491']","['Licorice', 'Dreams', 'Palafox', 'Johnsun', 'Josedeodo']",68,62
+1,16,Golden Guardians,North America,"['4762', '5953', '6194', '6198', '6352']","['Stixxay', 'Ablazeolive', 'Chime', 'Solo', 'Iconic']",68,62
+2,19,Counter Logic Gaming,North America,"['4521', '4760', '4928', '5794', '6139']","['Broxah', 'Smoothie', 'Damonte', 'Finn', 'Pobelter']",68,62
+3,22,100 Thieves,North America,"['4541', '4757', '5574', '5641', '5723']","['Closer', 'Ssumday', 'Abbedagge', 'Huhi', 'FBI']",68,62
+4,13,Team Liquid,North America,"['4546', '4626', '4734', '5603', '5858', '5867']","['CoreJJ', 'Jensen', 'Santorin', 'Alphari', 'Tactical', 'Jenkins']",68,62
+5,1,TSM,North America,"['4611', '4720', '5857', '5900', '6320']","['Huni', 'PowerOfEvil', 'Spica', 'Lost', 'SwordArt']",68,62
+6,18,Evil Geniuses,North America,"['4550', '4614', '4622', '4791', '5477', '6490']","['Deftly', 'Impact', 'IgNar', 'Svenskeren', 'Jiizuke', 'Danny']",68,62
+7,66,TSM Academy,North America,"['4533', '4606', '5714', '6116', '6360', '6371', '6515']","['Cody Sun', 'Hauntzer', 'Babip', 'Evolved', 'Fizzi', 'Sword', 'Yursan']",68,62
+8,67,Streamers,North America,"['4506', '4514', '4548', '4560', '4609', '4736', '4759', '4786', '4913', '4914', '4938', '4943', '4978', '5005', '5023', '5081', '5105', '5292', '5293', '5333', '5388', '5398', '5461', '5466', '5494', '5598', '6137', '6138', '6145', '6334', '6478']","['Bjergsen', 'Boxbox', 'Cpt Jack', 'Doublelift', 'hi im gosu', 'Rush', 'Sneaky', 'Shiphtur', 'Imaqtpie', 'Scarra', 'Adrian Riven', 'Valkrin', 'Annie Bot', 'Tyler1', 'IWillDominate', 'Voyboy', 'TF Blade', 'Nightblue3', 'Pants are Dragon', 'Cowsep', 'LL Stylish', 'Singed420', 'Irelia Carries U', 'Yassuo', 'Gripex', 'Heisendong', 'SirhcEz', 'Noway4u', 'LS', 'Uzi', 'Nemesis']",68,62
+9,20,Immortals,North America,"['4556', '5109', '5638', '5732', '5880', '6143']","['Destiny', 'WildTurtle', 'Xerxe', 'Raes', 'Insanity', 'Revenge']",68,62
+10,21,Dignitas,North America,"['4485', '4544', '5644', '5853', '6189']","['Aphromoo', 'Dardoch', 'Soligo', 'FakeGod', 'Neo']",68,62
+11,81,IMT Academy,North America,"['4713', '5736', '5998', '6357', '6364']","['Keith', 'Topoon', 'Potluck', 'Joey', 'Pretty']",68,62
+12,79,Dignitas Academy,North America,"['4483', '4642', '5643', '5862', '6370']","['Akaadian', 'Lourlo', 'JayJ', 'Yusui', 'Spawn']",68,62
+13,88,EG Academy,North America,"['4537', '6358', '6368', '6374', '6494', '6495']","['Contractz', 'Mystiques', 'Shoryu', 'Tony Top', 'TeamLuke', 'jojopyun']",68,62
+14,87,GGS Academy,North America,"['5855', '6175', '6353', '6354', '6365', '6375']","['Prismal', 'Tally', 'Newbie', 'Niles', 'RoseThorn', 'Yunbee']",68,62
+15,89,TL Academy,North America,"['4596', '5722', '5727', '6496']","['Armao', 'Eyla', 'Haeri', 'Yeon']",68,62
+16,77,100 Academy,North America,"['4756', '5169', '6218', '6362', '6373']","['ry0ma', 'Luger', 'Poome', 'Kenvi', 'Tenacity']",68,62
+17,86,FlyQuest Academy,North America,"['5737', '5851', '5852', '6206', '6363']","['Triple', 'Kumo', 'Diamond', 'Tomo', 'Nxi']",68,62
+18,14,Cloud9,North America,"['4696', '4794', '5110', '5645', '6000']","['Perkz', 'Zven', 'Blaber', 'Vulcan', 'Fudge']",68,62
+19,80,CLG Academy,North America,"['5648', '5888', '6092', '6114', '6355', '6356', '6361']","['Griffin', 'Katsurii', 'Thien', 'rjs', 'Brandini', 'Hooks', 'Keel']",68,62
+20,78,C9 Academy,North America,"['4552', '4631', '6104', '6359', '6367']","['Darshan', 'K1ng', 'Isles', 'Copy', 'Shernfire']",68,62
+21,3,Fnatic,Europe,"['4619', '4749', '4810', '5467', '6484']","['Hylissang', 'Nisqy', 'Upset', 'Bwipo', 'Adam']",68,62
+22,8,SK Gaming,Europe,"['5479', '5823', '6028', '6065', '6380', '6487']","['Treatz', 'Jenax', 'Jezu', 'Blue', 'TynX', 'Jesiz']",68,62
+23,9,FC Schalke 04,Europe,"['4527', '5979', '6201', '6402', '6483']","['Broken Blade', 'LIMIT', 'Neon', 'NUCLEARINT', 'Kirei']",68,62
+24,10,Misfits Gaming,Europe,"['4652', '4893', '5985', '6376', '6379']","['Kobbe', 'Vander', 'Razork', 'HiRit', 'Vetheo']",68,62
+25,11,Excel Esports,Europe,"['4711', '4769', '5803', '5986', '6003', '6229']","['Nukeduck', 'Patrik', 'Dan', 'Denyk', 'Czekolad', 'Kryze']",68,62
+26,12,Rogue,Europe,"['4616', '4681', '5798', '5799', '6038']","['Hans Sama', 'Odoamne', 'Inspired', 'Larssen', 'Trymbi']",68,62
+27,17,Team Vitality,Europe,"['5630', '5975', '5977', '6227', '6481', '6488', '6489']","['Selfmade', 'Milica', 'Comp', 'Labrov', 'Crownshot', 'LIDER', 'SLT']",68,62
+28,90,Origen BCN,Europe,[],[],68,62
+29,4,G2 Esports,Europe,"['4532', '4627', '4688', '4732', '4910']","['Caps', 'Jankos', 'Mikyx', 'Rekkles', 'Wunder']",68,62
+30,70,Misfits Premier,Europe,"['4625', '5228', '5820', '6025', '6401']","['Jactroll', 'Woolite', 'Sertuss', 'Agresivoo', 'Shlatan']",68,62
+31,111,Fnatic Rising,Europe,"['4578', '6015', '6393', '6394', '6395', '6510']","['FEBIVEN', 'Pride', 'Maxi', 'Bean', 'rhuckz', 'Dajor']",68,62
+32,120,SK Gaming Prime,Europe,"['6187', '6245', '6406', '6407', '6408', '6486']","['Alois', 'ZaZee', 'Canee', 'UNF0RGIVEN', 'Lilipp', 'twohoyrz']",68,62
+33,121,BT Excel,Europe,"['5827', '6013', '6023', '6391', '6392']","['Orome', 'Deadly', 'Hatrixx', 'Markoon', 'Advienne']",68,62
+34,118,Vitality Bee,Europe,"['5476', '6011', '6409', '6410', '6411', '6412', '6413']","['Skeanz', 'Szygenda', 'R4VEN', 'SMILEY', 'Hustlin', 'Diplex', 'Memento']",68,62
+35,5,Astralis,Europe,"['6002', '6338', '6351', '6377', '6482']","['Zanzarah', 'Jeskla', 'promisq', 'WhiteKnight', 'MagiFelix']",68,62
+36,76,MAD Lions Madrid,Europe,"['4708', '5050', '6020', '6024', '6399', '6400', '6493']","['Tore', 'Sacre', 'Aesenar', 'Flakked', 'Alexx', 'knighter', 'Kackos']",68,62
+37,122,AGO Rogue,Europe,"['5819', '6035', '6381', '6382', '6383']","['Lurox', 'Lucker', 'Sinmivak', 'Chres', 'Pyrka']",68,62
+38,119,FC Schalke 04 Evolution,Europe,"['5993', '6034', '6403', '6404', '6405', '6492']","['Gilius', 'Yoppa', 'Obsess', 'Kynetic', 'Tolerant', 'Zwyroo']",68,62
+39,6,MAD Lions,Europe,"['4500', '5612', '5973', '5991', '6378']","['Armut', 'Humanoid', 'Kaiser', 'Carzzy', 'Elyoya']",68,62
+40,222,Astralis Talent,Europe,"['6384', '6385', '6387', '6388', '6390']","['Carlsen', 'Mixsi', 'Rylle', 'Kadaver', 'RotteBengi']",68,62
+41,114,G2 Arctic,Europe,"['6016', '6017', '6019', '6022', '6196', '6398']","['Oscarinin', 'Nasser', 'Supa', 'Koldo', 'Efias', 'Fresskowy']",68,62
+42,29,Gen.G,Korea,"['4509', '4733', '5271', '5408', '5501', '5506']","['Bdd', 'Ruler', 'Rascal', 'Clid', 'Life', 'Flawless']",68,62
+43,30,Afreeca Freecs,Korea,"['4507', '4977', '5131', '5291', '5661', '5673', '6428']","['Bang', 'Fly', 'Lehends', 'Leo', 'Kiin', 'Dread', 'Keine']",68,62
+44,31,KT Rolster,Korea,"['5513', '6045', '6049', '6414', '6419', '6420', '6513']","['Dove', 'HyBriD', 'Doran', 'Ucal', 'Blank', 'Bonnie', 'Zzus']",68,62
+45,72,Royal Never Give Up,Korea,"['5357', '5886', '6311', '6312']","['Ming', 'Xiaohu', 'XLB', 'Cryin']",68,62
+46,73,Invictus Gaming,Korea,"['5414', '5519', '5826', '6283', '6284', '6285']","['Ning', 'Rookie', 'TheShy', 'Puff', 'Southwind', 'Reheal']",68,62
+47,24,T1,Korea,"['4557', '4587', '4767', '5670', '6050', '6058', '6059', '6060', '6421', '6429', '6430']","['Cuzz', 'Faker', 'Roach', 'Teddy', 'Keria', 'Canna', 'Ellim', 'Gumayusi', 'Clozer', 'Oner', 'Zeus']",68,62
+48,123,EDward Gaming,Korea,"['5901', '5902', '6247', '6251', '6253', '6254', '6297', '6476']","['Meiko', 'Scout', 'Viper', 'Hope', 'Jiejie', 'Aodi', 'Flandre', 'Gori']",68,62
+49,194,Dominus Esports,Korea,"['6255', '6256', '6257']","['Twila', 'Xiaopeng', 'Chelizi']",68,62
+50,196,LGD Gaming,Korea,"['6292', '6293']","['xiye', 'Kramer']",68,62
+51,198,LNG Esports,Korea,"['6296', '6299', '6300', '6301', '6302', '6477']","['Chenlun17', 'Xx', 'Maple', 'Light', 'lwandy', 'Tarzan']",68,62
+52,200,Vici Gaming,Korea,"['6273', '6274', '6275', '6276', '6277', '6278']","['iBoy', 'Zeka', 'Hang', 'Forge', 'Leyan', 'Cube']",68,62
+53,192,Top Esports,Korea,"['6246', '6279', '6326', '6327', '6328']","['JackeyLove', 'Karsa', '369', 'Knight', 'yuyanjia']",68,62
+54,203,Rogue Warriors,Korea,"['6307', '6308', '6309', '6310', '6313']","['Haro', 'Ruby', 'ZWuji', 'Crazy', 'Betty']",68,62
+55,205,Team WE,Korea,"['6303', '6322', '6323', '6324', '6325']","['Curse', 'beishang', 'Teacherma', 'Elk', 'Missing']",68,62
+56,206,JD Gaming,Korea,"['6044', '6286', '6287', '6288', '6289', '6290']","['Mystic', 'Kanavi', 'Yagao', 'LokeN', 'LvMao', 'Zoom']",68,62
+57,26,Liiv SANDBOX,Korea,"['4572', '4804', '5663', '5665', '6057', '6422', '6514']","['Effort', 'Summit', 'OnFleek', 'Route', 'FATE', 'Croco', 'Prince']",68,62
+58,28,Hanwha Life,Korea,"['4561', '5654', '6042', '6125', '6321', '6425']","['Deft', 'Chovy', 'Vsta', 'Arthur', 'Morgan', 'DuDu']",68,62
+59,25,DRX,Korea,"['6051', '6170', '6259', '6416', '6418']","['Pyosik', 'SOLKA', 'Kingen', 'BAO', 'Becca']",68,62
+60,193,Bilibili Gaming,Korea,"['4490', '6261', '6262', '6280', '6281', '6294']","['Aiming', 'XinMo', 'Wings', 'Meteor', 'FoFo', 'Mark']",68,62
+61,195,eStar,Korea,"['6263', '6265', '6266', '6267', '6282']","['Xiaobai', 'CJJ', 'Fenfen', 'Wink', 'ShiauC']",68,62
+62,199,Victory Five,Korea,"['6179', '6269', '6270', '6271', '6272']","['Trigger', 'ppgod', 'Mole', 'Weiwei', 'Biubiu']",68,62
+63,201,Oh My God,Korea,"['6304', '6305', '6306']","['H4cker', 'icon', 'Smlz']",68,62
+64,204,Suning,Korea,"['6260', '6315', '6316', '6317', '6318']","['Jinjiao', 'Bin', 'SofM', 'Angel', 'huanfeng']",68,62
+65,223,Nongshim RedForce,Korea,"['5660', '6180', '6182', '6295', '6417']","['Kellin', 'Rich', 'Deokdam', 'Peanut', 'Bay']",68,62
+66,224,Fredit BRION,Korea,"['4651', '6415', '6423', '6426', '6427', '6511']","['Lava', 'UmTi', 'Delight', 'Hena', 'Hoya', 'Chieftain']",68,62
+67,172,FunPlus Phoenix,Korea,"['5530', '6052', '6061', '6063', '6268']","['Nuguri', 'Doinb', 'Tian', 'Lwx', 'Crisp']",68,62
+68,27,DWG KIA,Korea,"['4682', '4751', '5531', '5651', '5653', '5658', '6168', '6335']","['Khan', 'Malrang', 'ShowMaker', 'BeryL', 'Canyon', 'Hoit', 'Ghost', 'Chasy']",68,62
+69,225,Netshoes Miners,Brazil,"['6126', '6203', '6474', '6503', '6504']","['NOsFerus', 'Hawk', 'Truklax', 'Sephis', 'Drop']",68,62
+70,38,INTZ,Brazil,"['4570', '4674', '5687', '6130', '6209', '6214', '6457', '6467']","['Envy', 'micaO', 'Mills', 'Professor', 'Sting', 'Revolta', 'Cabu', 'Hauz']",68,62
+71,229,Vorax Liberty,Brazil,"['6118', '6135', '6136', '6469', '6470']","['fNb', 'Wos', 'Yampi', 'Krastyel', 'Matsukaze']",68,62
+72,34,Flamengo eSports,Brazil,"['4778', '5689', '6134', '6342', '6498']","['RedBert', 'Ranger', 'Tutsz', 'Parang', 'Netuno']",68,62
+73,39,KaBuM! e-Sports,Brazil,"['6458', '6463', '6475', '6501']","['Disave', 'Evrot', 'Wizer', 'Scuro']",68,62
+74,131,paiN Gaming,Brazil,"['4520', '4729', '5686', '5791', '6193']","['brTT', 'Robo', 'Luci', 'Tinowns', 'CarioK']",68,62
+75,42,FURIA Esports,Brazil,"['5676', '6204', '6479', '6480', '6499', '6500']","['Anyyy', 'Tyrin', 'Follow', 'Beenie', 'Jockster', 'Diamondprox']",68,62
+76,227,LOUD,Brazil,"['4547', '4563', '4821', '6459', '6460', '6502']","['Ceos', 'DudsTheBoy', 'Tay', 'Don Arts', 'Dynquedo', 'Mewkyo']",68,62
+77,231,RED Canids,Brazil,"['6454', '6455', '6466', '6468', '6472']","['Aegis', 'Avenger', 'Guigo', 'JoJo', 'TitaN']",68,62
+78,228,Rensga eSports,Brazil,"['4841', '6456', '6461', '6464', '6473', '6497']","['Damage', 'Bydeki', 'Erasus', 'Froststrike', 'Trigo', 'Croc']",68,62
+79,58,Dire Wolves,Oceania,[],[],68,62
+80,59,Gravitas,Oceania,[],[],68,62
+81,60,Legacy Esports,Oceania,[],[],68,62
+82,61,MAMMOTH,Oceania,[],[],68,62
+83,62,ORDER,Oceania,[],[],68,62
+84,55,Avant Gaming,Oceania,[],[],68,62
+85,57,Chiefs Esports Club,Oceania,[],[],68,62
+86,173,Pentanet.GG,Oceania,[],[],68,62
+87,49,İstanbul Wild Cats,Turkey,"['4621', '5710', '6080', '6081', '6435']","['HolyPhoenix', 'StarScreen', 'Ferret', 'Serin', 'Farfetch']",68,62
+88,51,NASR Turkey,Turkey,"['5701', '5907', '6076', '6432', '6506', '6507', '6508']","['Japone', 'Giyuu', 'Kituruken', 'BaekHo', 'Black', 'Bono', 'SoHwan']",68,62
+89,52,SuperMassive,Turkey,"['5906', '6078', '6082', '6228', '6333', '6505']","['Kireas', 'Absolute', 'Kaori', 'Ksaez', 'Ragner', 'Roulette']",68,62
+90,44,1907 Fenerbahçe,Turkey,"['6072', '6086', '6210', '6438', '6441']","['Stillnumb', 'Elramir', 'Sparz', 'Lenom', 'Neramin']",68,62
+91,45,Beşiktaş Esports,Turkey,"['5913', '6075', '6213', '6431', '6440']","['Juuzou', 'WaenA', 'Robin', 'Alive', 'Mocha']",68,62
+92,47,Dark Passage,Turkey,"['5707', '6205', '6329', '6331', '6433']","['Pbd', 'Typhoon', 'fabFabulous', 'Kofte', 'Coldraa']",68,62
+93,48,Galakticos,Turkey,"['6436', '6439', '6444', '6445']","['Jeyrus', 'Maximillion', 'Shawi Katami', 'Tumay']",68,62
+94,50,Galatasaray Esports,Turkey,"['5694', '5698', '5920', '6332', '6446']","['Bolulu', 'Mojito', 'Luana', 'Padden', 'Zergsting']",68,62
+95,54,Team AURORA,Turkey,"['5703', '6089', '6434', '6437', '6452', '6453']","['Madly', 'Rhioni', 'Eden Fox', 'Kamil', 'Rare', 'Only35']",68,62
+96,46,5 Ronin,Turkey,"['5911', '6191', '6220', '6349', '6509']","['Umut', 'Brolia', 'Oncan', 'Pilot', 'BroCColi']",68,62

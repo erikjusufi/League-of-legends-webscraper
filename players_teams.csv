@@ -1,0 +1,513 @@
+,player_id,player_name,team_id,team
+0,4661,Licorice,189,FlyQuest
+1,5611,Dreams,189,FlyQuest
+2,5861,Palafox,189,FlyQuest
+3,6123,Johnsun,189,FlyQuest
+4,6491,Josedeodo,189,FlyQuest
+5,4762,Stixxay,16,Golden Guardians
+6,5953,Ablazeolive,16,Golden Guardians
+7,6194,Chime,16,Golden Guardians
+8,6198,Solo,16,Golden Guardians
+9,6352,Iconic,16,Golden Guardians
+10,4521,Broxah,19,Counter Logic Gaming
+11,4760,Smoothie,19,Counter Logic Gaming
+12,4928,Damonte,19,Counter Logic Gaming
+13,5794,Finn,19,Counter Logic Gaming
+14,6139,Pobelter,19,Counter Logic Gaming
+15,4541,Closer,22,100 Thieves
+16,4757,Ssumday,22,100 Thieves
+17,5574,Abbedagge,22,100 Thieves
+18,5641,Huhi,22,100 Thieves
+19,5723,FBI,22,100 Thieves
+20,4546,CoreJJ,13,Team Liquid
+21,4626,Jensen,13,Team Liquid
+22,4734,Santorin,13,Team Liquid
+23,5603,Alphari,13,Team Liquid
+24,5858,Tactical,13,Team Liquid
+25,5867,Jenkins,13,Team Liquid
+26,4611,Huni,1,TSM
+27,4720,PowerOfEvil,1,TSM
+28,5857,Spica,1,TSM
+29,5900,Lost,1,TSM
+30,6320,SwordArt,1,TSM
+31,4550,Deftly,18,Evil Geniuses
+32,4614,Impact,18,Evil Geniuses
+33,4622,IgNar,18,Evil Geniuses
+34,4791,Svenskeren,18,Evil Geniuses
+35,5477,Jiizuke,18,Evil Geniuses
+36,6490,Danny,18,Evil Geniuses
+37,4533,Cody Sun,66,TSM Academy
+38,4606,Hauntzer,66,TSM Academy
+39,5714,Babip,66,TSM Academy
+40,6116,Evolved,66,TSM Academy
+41,6360,Fizzi,66,TSM Academy
+42,6371,Sword,66,TSM Academy
+43,6515,Yursan,66,TSM Academy
+44,4506,Bjergsen,67,Streamers
+45,4514,Boxbox,67,Streamers
+46,4548,Cpt Jack,67,Streamers
+47,4560,Doublelift,67,Streamers
+48,4609,hi im gosu,67,Streamers
+49,4736,Rush,67,Streamers
+50,4759,Sneaky,67,Streamers
+51,4786,Shiphtur,67,Streamers
+52,4913,Imaqtpie,67,Streamers
+53,4914,Scarra,67,Streamers
+54,4938,Adrian Riven,67,Streamers
+55,4943,Valkrin,67,Streamers
+56,4978,Annie Bot,67,Streamers
+57,5005,Tyler1,67,Streamers
+58,5023,IWillDominate,67,Streamers
+59,5081,Voyboy,67,Streamers
+60,5105,TF Blade,67,Streamers
+61,5292,Nightblue3,67,Streamers
+62,5293,Pants are Dragon,67,Streamers
+63,5333,Cowsep,67,Streamers
+64,5388,LL Stylish,67,Streamers
+65,5398,Singed420,67,Streamers
+66,5461,Irelia Carries U,67,Streamers
+67,5466,Yassuo,67,Streamers
+68,5494,Gripex,67,Streamers
+69,5598,Heisendong,67,Streamers
+70,6137,SirhcEz,67,Streamers
+71,6138,Noway4u,67,Streamers
+72,6145,LS,67,Streamers
+73,6334,Uzi,67,Streamers
+74,6478,Nemesis,67,Streamers
+75,4556,Destiny,20,Immortals
+76,5109,WildTurtle,20,Immortals
+77,5638,Xerxe,20,Immortals
+78,5732,Raes,20,Immortals
+79,5880,Insanity,20,Immortals
+80,6143,Revenge,20,Immortals
+81,4485,Aphromoo,21,Dignitas
+82,4544,Dardoch,21,Dignitas
+83,5644,Soligo,21,Dignitas
+84,5853,FakeGod,21,Dignitas
+85,6189,Neo,21,Dignitas
+86,4713,Keith,81,IMT Academy
+87,5736,Topoon,81,IMT Academy
+88,5998,Potluck,81,IMT Academy
+89,6357,Joey,81,IMT Academy
+90,6364,Pretty,81,IMT Academy
+91,4483,Akaadian,79,Dignitas Academy
+92,4642,Lourlo,79,Dignitas Academy
+93,5643,JayJ,79,Dignitas Academy
+94,5862,Yusui,79,Dignitas Academy
+95,6370,Spawn,79,Dignitas Academy
+96,4537,Contractz,88,EG Academy
+97,6358,Mystiques,88,EG Academy
+98,6368,Shoryu,88,EG Academy
+99,6374,Tony Top,88,EG Academy
+100,6494,TeamLuke,88,EG Academy
+101,6495,jojopyun,88,EG Academy
+102,5855,Prismal,87,GGS Academy
+103,6175,Tally,87,GGS Academy
+104,6353,Newbie,87,GGS Academy
+105,6354,Niles,87,GGS Academy
+106,6365,RoseThorn,87,GGS Academy
+107,6375,Yunbee,87,GGS Academy
+108,4596,Armao,89,TL Academy
+109,5722,Eyla,89,TL Academy
+110,5727,Haeri,89,TL Academy
+111,6496,Yeon,89,TL Academy
+112,4756,ry0ma,77,100 Academy
+113,5169,Luger,77,100 Academy
+114,6218,Poome,77,100 Academy
+115,6362,Kenvi,77,100 Academy
+116,6373,Tenacity,77,100 Academy
+117,5737,Triple,86,FlyQuest Academy
+118,5851,Kumo,86,FlyQuest Academy
+119,5852,Diamond,86,FlyQuest Academy
+120,6206,Tomo,86,FlyQuest Academy
+121,6363,Nxi,86,FlyQuest Academy
+122,4696,Perkz,14,Cloud9
+123,4794,Zven,14,Cloud9
+124,5110,Blaber,14,Cloud9
+125,5645,Vulcan,14,Cloud9
+126,6000,Fudge,14,Cloud9
+127,5648,Griffin,80,CLG Academy
+128,5888,Katsurii,80,CLG Academy
+129,6092,Thien,80,CLG Academy
+130,6114,rjs,80,CLG Academy
+131,6355,Brandini,80,CLG Academy
+132,6356,Hooks,80,CLG Academy
+133,6361,Keel,80,CLG Academy
+134,4552,Darshan,78,C9 Academy
+135,4631,K1ng,78,C9 Academy
+136,6104,Isles,78,C9 Academy
+137,6359,Copy,78,C9 Academy
+138,6367,Shernfire,78,C9 Academy
+139,4619,Hylissang,3,Fnatic
+140,4749,Nisqy,3,Fnatic
+141,4810,Upset,3,Fnatic
+142,5467,Bwipo,3,Fnatic
+143,6484,Adam,3,Fnatic
+144,5479,Treatz,8,SK Gaming
+145,5823,Jenax,8,SK Gaming
+146,6028,Jezu,8,SK Gaming
+147,6065,Blue,8,SK Gaming
+148,6380,TynX,8,SK Gaming
+149,6487,Jesiz,8,SK Gaming
+150,4527,Broken Blade,9,FC Schalke 04
+151,5979,LIMIT,9,FC Schalke 04
+152,6201,Neon,9,FC Schalke 04
+153,6402,NUCLEARINT,9,FC Schalke 04
+154,6483,Kirei,9,FC Schalke 04
+155,4652,Kobbe,10,Misfits Gaming
+156,4893,Vander,10,Misfits Gaming
+157,5985,Razork,10,Misfits Gaming
+158,6376,HiRit,10,Misfits Gaming
+159,6379,Vetheo,10,Misfits Gaming
+160,4711,Nukeduck,11,Excel Esports
+161,4769,Patrik,11,Excel Esports
+162,5803,Dan,11,Excel Esports
+163,5986,Denyk,11,Excel Esports
+164,6003,Czekolad,11,Excel Esports
+165,6229,Kryze,11,Excel Esports
+166,4616,Hans Sama,12,Rogue
+167,4681,Odoamne,12,Rogue
+168,5798,Inspired,12,Rogue
+169,5799,Larssen,12,Rogue
+170,6038,Trymbi,12,Rogue
+171,5630,Selfmade,17,Team Vitality
+172,5975,Milica,17,Team Vitality
+173,5977,Comp,17,Team Vitality
+174,6227,Labrov,17,Team Vitality
+175,6481,Crownshot,17,Team Vitality
+176,6488,LIDER,17,Team Vitality
+177,6489,SLT,17,Team Vitality
+178,4532,Caps,4,G2 Esports
+179,4627,Jankos,4,G2 Esports
+180,4688,Mikyx,4,G2 Esports
+181,4732,Rekkles,4,G2 Esports
+182,4910,Wunder,4,G2 Esports
+183,4625,Jactroll,70,Misfits Premier
+184,5228,Woolite,70,Misfits Premier
+185,5820,Sertuss,70,Misfits Premier
+186,6025,Agresivoo,70,Misfits Premier
+187,6401,Shlatan,70,Misfits Premier
+188,4578,FEBIVEN,111,Fnatic Rising
+189,6015,Pride,111,Fnatic Rising
+190,6393,Maxi,111,Fnatic Rising
+191,6394,Bean,111,Fnatic Rising
+192,6395,rhuckz,111,Fnatic Rising
+193,6510,Dajor,111,Fnatic Rising
+194,6187,Alois,120,SK Gaming Prime
+195,6245,ZaZee,120,SK Gaming Prime
+196,6406,Canee,120,SK Gaming Prime
+197,6407,UNF0RGIVEN,120,SK Gaming Prime
+198,6408,Lilipp,120,SK Gaming Prime
+199,6486,twohoyrz,120,SK Gaming Prime
+200,5827,Orome,121,BT Excel
+201,6013,Deadly,121,BT Excel
+202,6023,Hatrixx,121,BT Excel
+203,6391,Markoon,121,BT Excel
+204,6392,Advienne,121,BT Excel
+205,5476,Skeanz,118,Vitality Bee
+206,6011,Szygenda,118,Vitality Bee
+207,6409,R4VEN,118,Vitality Bee
+208,6410,SMILEY,118,Vitality Bee
+209,6411,Hustlin,118,Vitality Bee
+210,6412,Diplex,118,Vitality Bee
+211,6413,Memento,118,Vitality Bee
+212,6002,Zanzarah,5,Astralis
+213,6338,Jeskla,5,Astralis
+214,6351,promisq,5,Astralis
+215,6377,WhiteKnight,5,Astralis
+216,6482,MagiFelix,5,Astralis
+217,4708,Tore,76,MAD Lions Madrid
+218,5050,Sacre,76,MAD Lions Madrid
+219,6020,Aesenar,76,MAD Lions Madrid
+220,6024,Flakked,76,MAD Lions Madrid
+221,6399,Alexx,76,MAD Lions Madrid
+222,6400,knighter,76,MAD Lions Madrid
+223,6493,Kackos,76,MAD Lions Madrid
+224,5819,Lurox,122,AGO Rogue
+225,6035,Lucker,122,AGO Rogue
+226,6381,Sinmivak,122,AGO Rogue
+227,6382,Chres,122,AGO Rogue
+228,6383,Pyrka,122,AGO Rogue
+229,5993,Gilius,119,FC Schalke 04 Evolution
+230,6034,Yoppa,119,FC Schalke 04 Evolution
+231,6403,Obsess,119,FC Schalke 04 Evolution
+232,6404,Kynetic,119,FC Schalke 04 Evolution
+233,6405,Tolerant,119,FC Schalke 04 Evolution
+234,6492,Zwyroo,119,FC Schalke 04 Evolution
+235,4500,Armut,6,MAD Lions
+236,5612,Humanoid,6,MAD Lions
+237,5973,Kaiser,6,MAD Lions
+238,5991,Carzzy,6,MAD Lions
+239,6378,Elyoya,6,MAD Lions
+240,6384,Carlsen,222,Astralis Talent
+241,6385,Mixsi,222,Astralis Talent
+242,6387,Rylle,222,Astralis Talent
+243,6388,Kadaver,222,Astralis Talent
+244,6390,RotteBengi,222,Astralis Talent
+245,6016,Oscarinin,114,G2 Arctic
+246,6017,Nasser,114,G2 Arctic
+247,6019,Supa,114,G2 Arctic
+248,6022,Koldo,114,G2 Arctic
+249,6196,Efias,114,G2 Arctic
+250,6398,Fresskowy,114,G2 Arctic
+251,4509,Bdd,29,Gen.G
+252,4733,Ruler,29,Gen.G
+253,5271,Rascal,29,Gen.G
+254,5408,Clid,29,Gen.G
+255,5501,Life,29,Gen.G
+256,5506,Flawless,29,Gen.G
+257,4507,Bang,30,Afreeca Freecs
+258,4977,Fly,30,Afreeca Freecs
+259,5131,Lehends,30,Afreeca Freecs
+260,5291,Leo,30,Afreeca Freecs
+261,5661,Kiin,30,Afreeca Freecs
+262,5673,Dread,30,Afreeca Freecs
+263,6428,Keine,30,Afreeca Freecs
+264,5513,Dove,31,KT Rolster
+265,6045,HyBriD,31,KT Rolster
+266,6049,Doran,31,KT Rolster
+267,6414,Ucal,31,KT Rolster
+268,6419,Blank,31,KT Rolster
+269,6420,Bonnie,31,KT Rolster
+270,6513,Zzus,31,KT Rolster
+271,5357,Ming,72,Royal Never Give Up
+272,5886,Xiaohu,72,Royal Never Give Up
+273,6311,XLB,72,Royal Never Give Up
+274,6312,Cryin,72,Royal Never Give Up
+275,5414,Ning,73,Invictus Gaming
+276,5519,Rookie,73,Invictus Gaming
+277,5826,TheShy,73,Invictus Gaming
+278,6283,Puff,73,Invictus Gaming
+279,6284,Southwind,73,Invictus Gaming
+280,6285,Reheal,73,Invictus Gaming
+281,4557,Cuzz,24,T1
+282,4587,Faker,24,T1
+283,4767,Roach,24,T1
+284,5670,Teddy,24,T1
+285,6050,Keria,24,T1
+286,6058,Canna,24,T1
+287,6059,Ellim,24,T1
+288,6060,Gumayusi,24,T1
+289,6421,Clozer,24,T1
+290,6429,Oner,24,T1
+291,6430,Zeus,24,T1
+292,5901,Meiko,123,EDward Gaming
+293,5902,Scout,123,EDward Gaming
+294,6247,Viper,123,EDward Gaming
+295,6251,Hope,123,EDward Gaming
+296,6253,Jiejie,123,EDward Gaming
+297,6254,Aodi,123,EDward Gaming
+298,6297,Flandre,123,EDward Gaming
+299,6476,Gori,123,EDward Gaming
+300,6255,Twila,194,Dominus Esports
+301,6256,Xiaopeng,194,Dominus Esports
+302,6257,Chelizi,194,Dominus Esports
+303,6292,xiye,196,LGD Gaming
+304,6293,Kramer,196,LGD Gaming
+305,6296,Chenlun17,198,LNG Esports
+306,6299,Xx,198,LNG Esports
+307,6300,Maple,198,LNG Esports
+308,6301,Light,198,LNG Esports
+309,6302,lwandy,198,LNG Esports
+310,6477,Tarzan,198,LNG Esports
+311,6273,iBoy,200,Vici Gaming
+312,6274,Zeka,200,Vici Gaming
+313,6275,Hang,200,Vici Gaming
+314,6276,Forge,200,Vici Gaming
+315,6277,Leyan,200,Vici Gaming
+316,6278,Cube,200,Vici Gaming
+317,6246,JackeyLove,192,Top Esports
+318,6279,Karsa,192,Top Esports
+319,6326,369,192,Top Esports
+320,6327,Knight,192,Top Esports
+321,6328,yuyanjia,192,Top Esports
+322,6307,Haro,203,Rogue Warriors
+323,6308,Ruby,203,Rogue Warriors
+324,6309,ZWuji,203,Rogue Warriors
+325,6310,Crazy,203,Rogue Warriors
+326,6313,Betty,203,Rogue Warriors
+327,6303,Curse,205,Team WE
+328,6322,beishang,205,Team WE
+329,6323,Teacherma,205,Team WE
+330,6324,Elk,205,Team WE
+331,6325,Missing,205,Team WE
+332,6044,Mystic,206,JD Gaming
+333,6286,Kanavi,206,JD Gaming
+334,6287,Yagao,206,JD Gaming
+335,6288,LokeN,206,JD Gaming
+336,6289,LvMao,206,JD Gaming
+337,6290,Zoom,206,JD Gaming
+338,4572,Effort,26,Liiv SANDBOX
+339,4804,Summit,26,Liiv SANDBOX
+340,5663,OnFleek,26,Liiv SANDBOX
+341,5665,Route,26,Liiv SANDBOX
+342,6057,FATE,26,Liiv SANDBOX
+343,6422,Croco,26,Liiv SANDBOX
+344,6514,Prince,26,Liiv SANDBOX
+345,4561,Deft,28,Hanwha Life
+346,5654,Chovy,28,Hanwha Life
+347,6042,Vsta,28,Hanwha Life
+348,6125,Arthur,28,Hanwha Life
+349,6321,Morgan,28,Hanwha Life
+350,6425,DuDu,28,Hanwha Life
+351,6051,Pyosik,25,DRX
+352,6170,SOLKA,25,DRX
+353,6259,Kingen,25,DRX
+354,6416,BAO,25,DRX
+355,6418,Becca,25,DRX
+356,4490,Aiming,193,Bilibili Gaming
+357,6261,XinMo,193,Bilibili Gaming
+358,6262,Wings,193,Bilibili Gaming
+359,6280,Meteor,193,Bilibili Gaming
+360,6281,FoFo,193,Bilibili Gaming
+361,6294,Mark,193,Bilibili Gaming
+362,6263,Xiaobai,195,eStar
+363,6265,CJJ,195,eStar
+364,6266,Fenfen,195,eStar
+365,6267,Wink,195,eStar
+366,6282,ShiauC,195,eStar
+367,6179,Trigger,199,Victory Five
+368,6269,ppgod,199,Victory Five
+369,6270,Mole,199,Victory Five
+370,6271,Weiwei,199,Victory Five
+371,6272,Biubiu,199,Victory Five
+372,6304,H4cker,201,Oh My God
+373,6305,icon,201,Oh My God
+374,6306,Smlz,201,Oh My God
+375,6260,Jinjiao,204,Suning
+376,6315,Bin,204,Suning
+377,6316,SofM,204,Suning
+378,6317,Angel,204,Suning
+379,6318,huanfeng,204,Suning
+380,5660,Kellin,223,Nongshim RedForce
+381,6180,Rich,223,Nongshim RedForce
+382,6182,Deokdam,223,Nongshim RedForce
+383,6295,Peanut,223,Nongshim RedForce
+384,6417,Bay,223,Nongshim RedForce
+385,4651,Lava,224,Fredit BRION
+386,6415,UmTi,224,Fredit BRION
+387,6423,Delight,224,Fredit BRION
+388,6426,Hena,224,Fredit BRION
+389,6427,Hoya,224,Fredit BRION
+390,6511,Chieftain,224,Fredit BRION
+391,5530,Nuguri,172,FunPlus Phoenix
+392,6052,Doinb,172,FunPlus Phoenix
+393,6061,Tian,172,FunPlus Phoenix
+394,6063,Lwx,172,FunPlus Phoenix
+395,6268,Crisp,172,FunPlus Phoenix
+396,4682,Khan,27,DWG KIA
+397,4751,Malrang,27,DWG KIA
+398,5531,ShowMaker,27,DWG KIA
+399,5651,BeryL,27,DWG KIA
+400,5653,Canyon,27,DWG KIA
+401,5658,Hoit,27,DWG KIA
+402,6168,Ghost,27,DWG KIA
+403,6335,Chasy,27,DWG KIA
+404,6126,NOsFerus,225,Netshoes Miners
+405,6203,Hawk,225,Netshoes Miners
+406,6474,Truklax,225,Netshoes Miners
+407,6503,Sephis,225,Netshoes Miners
+408,6504,Drop,225,Netshoes Miners
+409,4570,Envy,38,INTZ
+410,4674,micaO,38,INTZ
+411,5687,Mills,38,INTZ
+412,6130,Professor,38,INTZ
+413,6209,Sting,38,INTZ
+414,6214,Revolta,38,INTZ
+415,6457,Cabu,38,INTZ
+416,6467,Hauz,38,INTZ
+417,6118,fNb,229,Vorax Liberty
+418,6135,Wos,229,Vorax Liberty
+419,6136,Yampi,229,Vorax Liberty
+420,6469,Krastyel,229,Vorax Liberty
+421,6470,Matsukaze,229,Vorax Liberty
+422,4778,RedBert,34,Flamengo eSports
+423,5689,Ranger,34,Flamengo eSports
+424,6134,Tutsz,34,Flamengo eSports
+425,6342,Parang,34,Flamengo eSports
+426,6498,Netuno,34,Flamengo eSports
+427,6458,Disave,39,KaBuM! e-Sports
+428,6463,Evrot,39,KaBuM! e-Sports
+429,6475,Wizer,39,KaBuM! e-Sports
+430,6501,Scuro,39,KaBuM! e-Sports
+431,4520,brTT,131,paiN Gaming
+432,4729,Robo,131,paiN Gaming
+433,5686,Luci,131,paiN Gaming
+434,5791,Tinowns,131,paiN Gaming
+435,6193,CarioK,131,paiN Gaming
+436,5676,Anyyy,42,FURIA Esports
+437,6204,Tyrin,42,FURIA Esports
+438,6479,Follow,42,FURIA Esports
+439,6480,Beenie,42,FURIA Esports
+440,6499,Jockster,42,FURIA Esports
+441,6500,Diamondprox,42,FURIA Esports
+442,4547,Ceos,227,LOUD
+443,4563,DudsTheBoy,227,LOUD
+444,4821,Tay,227,LOUD
+445,6459,Don Arts,227,LOUD
+446,6460,Dynquedo,227,LOUD
+447,6502,Mewkyo,227,LOUD
+448,6454,Aegis,231,RED Canids
+449,6455,Avenger,231,RED Canids
+450,6466,Guigo,231,RED Canids
+451,6468,JoJo,231,RED Canids
+452,6472,TitaN,231,RED Canids
+453,4841,Damage,228,Rensga eSports
+454,6456,Bydeki,228,Rensga eSports
+455,6461,Erasus,228,Rensga eSports
+456,6464,Froststrike,228,Rensga eSports
+457,6473,Trigo,228,Rensga eSports
+458,6497,Croc,228,Rensga eSports
+459,4621,HolyPhoenix,49,İstanbul Wild Cats
+460,5710,StarScreen,49,İstanbul Wild Cats
+461,6080,Ferret,49,İstanbul Wild Cats
+462,6081,Serin,49,İstanbul Wild Cats
+463,6435,Farfetch,49,İstanbul Wild Cats
+464,5701,Japone,51,NASR Turkey
+465,5907,Giyuu,51,NASR Turkey
+466,6076,Kituruken,51,NASR Turkey
+467,6432,BaekHo,51,NASR Turkey
+468,6506,Black,51,NASR Turkey
+469,6507,Bono,51,NASR Turkey
+470,6508,SoHwan,51,NASR Turkey
+471,5906,Kireas,52,SuperMassive
+472,6078,Absolute,52,SuperMassive
+473,6082,Kaori,52,SuperMassive
+474,6228,Ksaez,52,SuperMassive
+475,6333,Ragner,52,SuperMassive
+476,6505,Roulette,52,SuperMassive
+477,6072,Stillnumb,44,1907 Fenerbahçe
+478,6086,Elramir,44,1907 Fenerbahçe
+479,6210,Sparz,44,1907 Fenerbahçe
+480,6438,Lenom,44,1907 Fenerbahçe
+481,6441,Neramin,44,1907 Fenerbahçe
+482,5913,Juuzou,45,Beşiktaş Esports
+483,6075,WaenA,45,Beşiktaş Esports
+484,6213,Robin,45,Beşiktaş Esports
+485,6431,Alive,45,Beşiktaş Esports
+486,6440,Mocha,45,Beşiktaş Esports
+487,5707,Pbd,47,Dark Passage
+488,6205,Typhoon,47,Dark Passage
+489,6329,fabFabulous,47,Dark Passage
+490,6331,Kofte,47,Dark Passage
+491,6433,Coldraa,47,Dark Passage
+492,6436,Jeyrus,48,Galakticos
+493,6439,Maximillion,48,Galakticos
+494,6444,Shawi Katami,48,Galakticos
+495,6445,Tumay,48,Galakticos
+496,5694,Bolulu,50,Galatasaray Esports
+497,5698,Mojito,50,Galatasaray Esports
+498,5920,Luana,50,Galatasaray Esports
+499,6332,Padden,50,Galatasaray Esports
+500,6446,Zergsting,50,Galatasaray Esports
+501,5703,Madly,54,Team AURORA
+502,6089,Rhioni,54,Team AURORA
+503,6434,Eden Fox,54,Team AURORA
+504,6437,Kamil,54,Team AURORA
+505,6452,Rare,54,Team AURORA
+506,6453,Only35,54,Team AURORA
+507,5911,Umut,46,5 Ronin
+508,6191,Brolia,46,5 Ronin
+509,6220,Oncan,46,5 Ronin
+510,6349,Pilot,46,5 Ronin
+511,6509,BroCColi,46,5 Ronin
