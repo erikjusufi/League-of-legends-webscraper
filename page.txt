@@ -1,0 +1,1821 @@
+<html lang="en" xml:lang="en" xmlns="https://www.w3.org/1999/xhtml" class=""><head><script src="https://rules.quantcount.com/rules-p-gZzLr0R4qLK_S.js" async=""></script><script type="text/javascript" async="" src="https://secure.adnxs.com/jpt?callback=districtmHeader.ssp.appnexus.handleAppNexusCallback&amp;callback_uid=RMJB7mdg3Z2dOGTQtpP0JM4XAZ2x4I~454~div-gpt-ad-1442462510330-9&amp;psa=0&amp;zone=454&amp;id=13400447&amp;member_id=1908&amp;size=300x600&amp;promo_sizes=160x600&amp;referrer=https://www.probuilds.net/teams/details/189"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/jpt?callback=districtmHeader.ssp.appnexus.handleAppNexusCallback&amp;callback_uid=blcwlSngEUGHoTocu5lOsDvuvsleY8~453~div-gpt-ad-1439337018753-15&amp;psa=0&amp;zone=453&amp;id=13400446&amp;member_id=1908&amp;size=320x50&amp;promo_sizes=728x90,970x250,300x250,970x90&amp;referrer=https://www.probuilds.net/teams/details/189"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/jpt?callback=districtmHeader.ssp.appnexus.handleAppNexusCallback&amp;callback_uid=eaKp2IOWjZFyErZkKNUoVP4Ik5lSyd~452~div-gpt-ad-1439337018753-14&amp;psa=0&amp;zone=452&amp;id=13400445&amp;member_id=1908&amp;size=320x50&amp;promo_sizes=728x90,970x250,970x90&amp;referrer=https://www.probuilds.net/teams/details/189"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/jpt?callback=districtmHeader.ssp.appnexus.handleAppNexusCallback&amp;callback_uid=k8K4XYA6jgx0D6MiqtHnjiTYhMojti~451~div-gpt-ad-1439337018753-7&amp;psa=0&amp;zone=451&amp;id=13400444&amp;member_id=1908&amp;size=300x250&amp;promo_sizes=300x600&amp;referrer=https://www.probuilds.net/teams/details/189"></script><script type="text/javascript" async="" src="https://secure.adnxs.com/jpt?callback=districtmHeader.ssp.appnexus.handleAppNexusCallback&amp;callback_uid=JTgJGSgYAiBY49WEvPS8SpBZmzY0Ai~450~div-gpt-ad-1439337018753-6&amp;psa=0&amp;zone=450&amp;id=13400443&amp;member_id=1908&amp;size=300x250&amp;promo_sizes=300x600&amp;referrer=https://www.probuilds.net/teams/details/189"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/tcfv2/35/cmp2.js?referer=www.probuilds.net"></script><script src="https://tagan.adlightning.com/solomid-gtm/bl-91212c4-2485073b.js" type="text/javascript" defer=""></script><script src="https://tagan.adlightning.com/solomid-gtm/b-0af0356-45b1cf12.js" type="text/javascript" defer=""></script><script type="text/javascript"></script>
+<script src="https://asset.pagefair.net/ads.min.js"></script><script src="https://asset.pagefair.com/measure.min.js"></script><script async="" type="text/javascript" src="https://quantcast.mgr.consensu.org/choice/gZzLr0R4qLK_S/www.probuilds.net/choice.js?timestamp=1642858124139"></script><script src="https://connect.facebook.net/signals/config/738447226621711?v=2.9.49&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://secure.quantserve.com/quant.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TS95D3M"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" async="" defer="" src="https://static.developer.riotgames.com/js/rgea.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script src="https://solomid-net.videoplayerhub.com/videoloader.js"></script>
+
+<script async="" src="//js-sec.indexww.com/ht/p/186025-23498070352008.js"></script>
+<script src="//cdn.districtm.ca/merge/merge.v4.5.124932.js"></script><iframe src="https://cdn.districtm.io/ids/index.html" marginheight="0" marginwidth="0" scrolling="no" style="display: none; border: 0px;" width="0px" height="0px"></iframe>
+
+<script src="https://cdn.zeroidtech.com/zt/Solomid/eu/zid.js"></script>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>FlyQuest - Probuilds.net</title>
+<meta name="description" content="View the builds and guides from players on FlyQuest: Dreams, Kumo, Johnsun, Josedeodo, .">
+<link rel="canonical" href="https://www.probuilds.net/teams/details/189">
+<link rel="icon" type="image/png" href="https://dc75lzxypo94l.cloudfront.net/probuilds/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://dc75lzxypo94l.cloudfront.net/probuilds/favicon.png">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="/css/tooltipster.css" rel="stylesheet" media="all">
+<link rel="stylesheet" type="text/css" href="/assets/probuilds.css">
+<link rel="search" type="application/opensearchdescription+xml" title="Search Probuilds.net" href="/osearch.xml">
+<script>
+        var _prum = [
+            ["id", "57224ee6abe53da55391b0e8"],
+            ["mark", "firstbyte", new Date().getTime()]
+        ];
+        (function() {
+            var s = document.getElementsByTagName("script")[0],
+                p = document.createElement("script");
+            p.async = "async";
+            p.src = "//rum-static.pingdom.net/prum.min.js";
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
+<script type="text/javascript">
+        var urlParams = new URLSearchParams(window.location.search);
+        var locale = urlParams.get('lang');
+        if (locale == null){
+            locale="";
+        }
+        var ttversion = {
+            champions: 2,
+            pros: 1448496001,
+            teams: 1,
+            summoners: 1,
+            runes: "1.5",
+            masteries: 4,
+            abilities: 2,
+            items: 4
+        };
+    </script>
+<script>
+        (function(i, s, o, g, r, a, m) {
+        i["GoogleAnalyticsObject"] = r;
+        (i[r] =
+            i[r] ||
+            function() {
+            (i[r].q = i[r].q || []).push(arguments);
+            }),
+            (i[r].l = 1 * new Date());
+        (a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m);
+        })(window, document, "script", "//www.google-analytics.com/analytics.js", "ga");
+
+        ga("create", "UA-45985961-1", "auto", "solomidnetworkTracker", {
+            "sampleRate": 6
+        });
+        ga("create", "UA-11786146-5", "auto");
+        ga("send", "pageview");
+        ga("solomidnetworkTracker.send", "pageview");
+    </script>
+<script type="text/javascript">
+        (function(t,l){
+            let w=window,d=document,s=d.createElement('script'),f=d.getElementsByTagName('script')[0];
+            w[t]=w[t]||function(){(w["_rgea"]=w["_rgea"]||[["uts",new Date()]]).push(Array.prototype.slice.call(arguments));w.RGEA&&w.RGEA.p();};
+            s.type='text/javascript'; s.async=true; s.defer=true; s.src=l; f.parentNode.insertBefore(s,f);
+        })("rgea", "https://static.developer.riotgames.com/js/rgea.min.js");
+    
+        rgea("propertyId", "RGEA0002-c0c81bfc-e893-4dc1-93d9-b6ab87ce9756");
+        // rgea("uid", "puuid"); // assuming the user is verified; encrypted puuid
+        // rgea("lolpid", "platformId"); // league platform id (na1, la2, euw1, kr, etc)
+        // rgea("lolaid", "accountId"); // assuming the user is verified; encrypted account id
+        rgea("anonymous", true); // defaults to true
+    </script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  googletag.cmd.push(function () { googletag.pubads().setTargeting("advelvet",
+    (Math.floor(Math.random() * 20) + 1) + ""); });
+</script>
+<script type="text/javascript">
+  var gptAdSlots = [];
+  googletag.cmd.push(function() {
+  var mapping336x768ROSSkinLeft = googletag.sizeMapping().addSize([1300, 0], [[160, 600], [300, 600], [336, 768]]).addSize([1160, 0], [[160, 600]]).build();
+  var mapping336x769ROSSkinRight = googletag.sizeMapping().addSize([1300, 0], [[160, 601], [300, 601], [336, 769]]).addSize([1160, 0], [[160, 601]]).build();
+  var gptAdSlots = [];
+    gptAdSlots[0] = googletag.defineSlot('/22280732/Probuilds_300x250_Other_ATF1', [[300, 1050], [336, 280], [300, 250], [300, 600]], 'div-gpt-ad-1439337018753-6').addService(googletag.pubads());
+    gptAdSlots[1] = googletag.defineSlot('/22280732/Probuilds_300x250_Other_BTF1', [[300, 1050], [336, 280], [300, 250], [300, 600]], 'div-gpt-ad-1439337018753-7').addService(googletag.pubads());
+    gptAdSlots[2] = googletag.defineSlot('/22280732/Probuilds_728x90_Other_ATF1', [[320, 50], [728, 90], [970, 250], [970, 90], [320, 100]], 'div-gpt-ad-1439337018753-14').addService(googletag.pubads());
+    gptAdSlots[3] = googletag.defineSlot('/22280732/Probuilds_728x90_Other_BTF1', [[320, 50], [728, 90], [970, 250], [300, 250], [970, 90], [320, 100]], 'div-gpt-ad-1439337018753-15').addService(googletag.pubads());
+    gptAdSlots[4] = googletag.defineSlot('/22280732/Probuilds_336x768_ROS_Skin_Left', [[336, 768], [300, 600], [160, 600]], 'div-gpt-ad-1442462510330-9').defineSizeMapping(mapping336x768ROSSkinLeft).addService(googletag.pubads());
+    gptAdSlots[5] = googletag.defineSlot('/22280732/Probuilds_336x768_ROS_Skin_Right', [[336, 769], [300, 601], [160, 601]], 'div-gpt-ad-1442462510330-4').defineSizeMapping(mapping336x769ROSSkinRight).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<script type="text/javascript">
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+{q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(
+A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+  // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+  apstag.init({
+    pubID: '8afe73dc-815b-482b-aa2f-721829d05f3d',
+    adServer: 'googletag',
+    bidTimeout: 2e3
+  });
+  // request the bids for the four googletag slots
+  apstag.fetchBids({
+    slots: [{
+      slotID: 'div-gpt-ad-1439337018753-6',
+      slotName: '/22280732/Probuilds_300x250_Other_ATF1',
+      sizes: [[300, 1050], [336, 280], [300, 250], [300, 600]]
+    },
+    {
+      slotID: 'div-gpt-ad-1439337018753-7',
+      slotName: '/22280732/Probuilds_300x250_Other_BTF1',
+      sizes: [[300, 1050], [336, 280], [300, 250], [300, 600]]
+    },
+    {
+      slotID: 'div-gpt-ad-1439337018753-14',
+      slotName: '/22280732/Probuilds_728x90_Other_ATF1',
+      sizes: [[320, 50], [728, 90], [970, 250], [970, 90], [320, 100]]
+    },
+    {
+      slotID: 'div-gpt-ad-1439337018753-15',
+      slotName: '/22280732/Probuilds_728x90_Other_BTF1',
+      sizes: [[320, 50], [728, 90], [970, 250], [300, 250], [970, 90], [320, 100]]
+    }]
+  }, function(bids) {
+    // trigger the first request to DFP
+    googletag.cmd.push(function() {
+      apstag.setDisplayBids();
+      googletag.pubads().refresh();
+    });
+  });
+</script>
+
+<meta name="referrer" content="always">
+
+
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+    h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+    (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+    })(window,document.documentElement,'async-hide','dataLayer',4000,
+    {'OPT-KVDM8P3':true});</script>
+<script async="" src="https://www.googleoptimize.com/optimize.js?id=OPT-KVDM8P3" onerror="dataLayer.hide.end &amp;&amp; dataLayer.hide.end()"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TS95D3M');</script>
+
+
+<script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:762459,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="https://static.hotjar.com/c/hotjar-762459.js?sv=6"></script>
+
+<script>
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "28660385" });
+        (function() {
+          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+          el.parentNode.insertBefore(s, el);
+        })();
+      </script>
+<noscript>
+        <img src="https://sb.scorecardresearch.com/p?c1=2&c2=28660385&cv=2.0&cj=1" />
+      </noscript>
+
+<script async="" src="https://script.hotjar.com/modules.923ec619fec69a542e35.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><meta http-equiv="origin-trial" content="AxujKG9INjsZ8/gUq8+dTruNvk7RjZQ1oFhhgQbcTJKDnZfbzSTE81wvC2Hzaf3TW4avA76LTZEMdiedF1vIbA4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="Azuce85ORtSnWe1MZDTv68qpaW3iHyfL9YbLRy0cwcCZwVnePnOmkUJlG8HGikmOwhZU22dElCcfrfX2HhrBPAkAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A16nvcdeoOAqrJcmjLRpl1I6f3McDD8EfofAYTt/P/H4/AWwB99nxiPp6kA0fXoiZav908Z8etuL16laFPUdfQsAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AxBHdr0J44vFBQtZUqX9sjiqf5yWZ/OcHRcRMN3H9TH+t90V/j3ENW6C8+igBZFXMJ7G3Pr8Dd13632aLng42wgAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2NTI3NzQ0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A88BWHFjcawUfKU3lIejLoryXoyjooBXLgWmGh+hNcqMK44cugvsI5YZbNarYvi3roc1fYbHA1AVbhAtuHZflgEAAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjUyNzc0NDAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A8FHS1NmdCwGqD9DwOicnHHY+y27kdWfxKa0YHSGDfv0CSpDKRHTQdQmZVPDUdaFWUsxdgVxlwAd6o+dhJykPA0AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A8zdXi6dr1hwXEUjQrYiyYQGlU3557y5QWDnN0Lwgj9ePt66XMEvNkVWOEOWPd7TP9sBQ25X0Q15Lr1Nn4oGFQkAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A4/Htern2udN9w3yJK9QgWQxQFruxOXsXL7cW60DyCl0EZFGCSme/J33Q/WzF7bBkVvhEWDlcBiUyZaim5CpFQwAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjQzMTU1MTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022011408.js" async=""></script><script src="//ats.rlcdn.com/ats.js"></script><script src="//cdn.id5-sync.com/api/1.0/id5-api.js"></script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script src="https://signal-beacon.s-onetag.com/beacon.min.js"></script><style type="text/css"> .qc-cmp-button.qc-cmp-secondary-button:hover {    background-color: #368bd6 !important;    border-color: transparent !important;  }  .qc-cmp-button.qc-cmp-secondary-button:hover {    color: #ffffff !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    color: #368bd6 !important;  }  .qc-cmp-button.qc-cmp-secondary-button {    background-color: #eee !important;    border-color: transparent !important;  }  .qc-cmp-ui,  .qc-cmp-ui .qc-cmp-title,  .qc-cmp-ui .qc-cmp-table,  .qc-cmp-ui .qc-cmp-messaging,  .qc-cmp-ui .qc-cmp-sub-title,  .qc-cmp-ui .qc-cmp-vendor-list,  .qc-cmp-ui .qc-cmp-purpose-info,  .qc-cmp-ui .qc-cmp-table-header,  .qc-cmp-ui .qc-cmp-beta-messaging,  .qc-cmp-ui .qc-cmp-main-messaging,  .qc-cmp-ui .qc-cmp-vendor-list-title{    color: #ffffff !important;  }  .qc-cmp-ui {    background-color: #242424 !important;  } </style><script type="text/javascript" id="__tcfapiuiscript" src="https://quantcast.mgr.consensu.org/tcfv2/35/cmp2ui-en.js"></script><style qc-data-emotion="css-global" data-s=""></style><style qc-data-emotion="css" data-s=""></style></head><img src="https://ad.doubleclick.net/favicon.ico?ad=300x250&amp;ad_box_=1&amp;adnet=1&amp;showad=1&amp;size=250x250" style="display: none !important; width: 1px !important; height: 1px !important;"><img src="https://ad-delivery.net/px.gif?ch=1&amp;e=0.9059025476739904" style="display: none !important; width: 1px !important; height: 1px !important;">
+
+<body class="main-page site-probuilds"><div class="qc-cmp2-container" id="qc-cmp2-container" data-nosnippet=""><div class="qc-cmp2-main" id="qc-cmp2-main" data-nosnippet=""><div height="887" class="qc-cmp-cleanslate css-7o80m4"><div id="qc-cmp2-ui" role="dialog" aria-label="qc-cmp2-ui" aria-modal="true" tabindex="0" class="css-ozmrzc"><div class="qc-cmp2-summary-section"><div class="qc-cmp2-consent-info"><div class="qc-cmp2-publisher-logo-container"><figure><h2>We value your privacy</h2></figure><div class="qc-cmp2-summary-info "><div>We and our <button mode="link" class="qc-cmp2-link-inline css-pq0k6d" tabindex="0" type="button" size="large">partners</button> store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.</div><div>With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting.</div><div>Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy.</div></div></div></div></div><div class="qc-cmp2-footer qc-cmp2-footer-overlay qc-cmp2-footer-scrolled"><div class="qc-cmp2-summary-buttons"><button mode="secondary" aria-label="MORE OPTIONS" aria-pressed="false" tabindex="0" type="button" size="large" class=" css-1hy2vtq">MORE OPTIONS</button><button aria-label="AGREE" aria-pressed="false" tabindex="0" type="button" mode="primary" size="large" class=" css-47sehv">AGREE</button></div></div></div></div></div></div>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS95D3M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="dl-blitz-vertical-container vertical-left dl-blitz-root">
+<a class="dl-blitz-vertical dl-blitz-left" target="_blank" href="https://blitz.gg/lol/download#features?utm_source=pb&amp;utm_campaign=dl_1">
+<div class="title-text-container">
+<span class="bold-text">Play like the Pros</span>
+</div>
+<div class="subtitle-text-container">
+<span class="subtitle-text">
+Import Bjergsens Build into your game using Pro Builds by Blitz
+</span>
+</div>
+<div class="dl-blitz-btn">
+<div class="icon-left hidden win-icon" style="display: block;">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>windowsIcon</title>
+<path d="M14 4.667v10.667h-11.333v-9.109l11.333-1.558zM2.667 25.758v-9.091h11.333v10.667l-11.333-1.576zM14.667 27.302v-10.635h14.667v12.667l-14.667-2.031zM14.667 4.679l14.667-2.012v12.667h-14.667v-10.654z"></path>
+</svg>
+</div>
+<div class="icon-left hidden mac-icon">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>macIcon</title>
+<path d="M21.5 2.667c-1.537 0.089-3.302 0.946-4.352 2.036-0.948 0.992-1.696 2.465-1.391 3.891 1.671 0.044 3.348-0.835 4.352-1.945 0.937-1.039 1.648-2.488 1.391-3.982zM21.591 8.591c-2.412 0-3.42 1.482-5.091 1.482-1.719 0-3.29-1.388-5.37-1.388-2.829 0.001-7.13 2.622-7.13 8.797 0 5.617 5.090 11.852 7.964 11.852 1.745 0.017 2.168-1.097 4.536-1.109 2.371-0.017 2.882 1.124 4.63 1.109 1.968-0.015 3.505-2.177 4.628-3.891 0.805-1.227 1.136-1.853 1.76-3.24-4.631-1.173-5.552-8.641 0-10.185-1.048-1.788-4.107-3.427-5.927-3.427z"></path>
+</svg>
+</div>
+<span>Download</span>
+</div>
+</a>
+</div>
+
+<div id="div-gpt-ad-1442462510330-9" style="height:768px; width:auto; position:fixed; right:50%; margin-top:8px; margin-right:501px; z-index:1; ">
+<script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442462510330-9'); });
+        setInterval(function(){googletag.pubads().refresh([gptAdSlots[4]]);}, 60000);
+    </script>
+<div id="google_ads_iframe_/22280732/Probuilds_336x768_ROS_Skin_Left_0__container__" style="border: 0pt none; width: 336px; height: 600px;"></div></div>
+<span class="bt-uid-tg" data-uid="5b15af1d5c-185" style="display: none !important"></span>
+<div class="dl-blitz-root dl-blitz-vertical-container vertical-right">
+<a class="dl-blitz-vertical dl-blitz-right" target="_blank" href="https://blitz.gg/lol/download#features?utm_source=pb&amp;utm_campaign=dl_4">
+<div class="title-text-container">
+<span class="bold-text">Import <br>Runes, Summoners, <br>
+and Builds <br>
+into League.</span>
+</div>
+<div class="subtitle-text-container">
+<span class="accent-text">Automatically.</span>
+</div>
+<div class="dl-blitz-btn">
+<div class="icon-left hidden win-icon" style="display: block;">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>windowsIcon</title>
+<path d="M14 4.667v10.667h-11.333v-9.109l11.333-1.558zM2.667 25.758v-9.091h11.333v10.667l-11.333-1.576zM14.667 27.302v-10.635h14.667v12.667l-14.667-2.031zM14.667 4.679l14.667-2.012v12.667h-14.667v-10.654z"></path>
+</svg>
+</div>
+<div class="icon-left hidden mac-icon">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>macIcon</title>
+<path d="M21.5 2.667c-1.537 0.089-3.302 0.946-4.352 2.036-0.948 0.992-1.696 2.465-1.391 3.891 1.671 0.044 3.348-0.835 4.352-1.945 0.937-1.039 1.648-2.488 1.391-3.982zM21.591 8.591c-2.412 0-3.42 1.482-5.091 1.482-1.719 0-3.29-1.388-5.37-1.388-2.829 0.001-7.13 2.622-7.13 8.797 0 5.617 5.090 11.852 7.964 11.852 1.745 0.017 2.168-1.097 4.536-1.109 2.371-0.017 2.882 1.124 4.63 1.109 1.968-0.015 3.505-2.177 4.628-3.891 0.805-1.227 1.136-1.853 1.76-3.24-4.631-1.173-5.552-8.641 0-10.185-1.048-1.788-4.107-3.427-5.927-3.427z"></path>
+</svg>
+</div>
+<span>Download</span>
+</div>
+</a>
+</div>
+
+<div id="div-gpt-ad-1442462510330-4" style="height:769px; width:336px; position:fixed; left:50%; margin-top:8px; margin-left:501px; z-index:1; ">
+<script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1442462510330-4'); });
+    </script>
+<div id="google_ads_iframe_/22280732/Probuilds_336x768_ROS_Skin_Right_0__container__" style="border: 0pt none; width: 336px; height: 601px;"></div></div>
+
+<div id="template_scroller">
+<div id="template_container" class="template-container">
+<header class="nav">
+<div class="wrap">
+<a class="logo" href="/" alt="probuilds">probuilds</a>
+<ul class="links">
+<li><a href="/pros">Pros</a></li>
+<li><a href="/champions">Champions</a></li>
+<li><a href="/teams">Teams</a></li>
+<li><a href="/feed">Live Feed</a></li>
+</ul>
+<a class="header-dl-blitz-root" target="_blank" href="https://blitz.gg/download/win">
+<div class="dl-blitz-btn">
+<div class="icon-left hidden win-icon" style="display: block;">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>windowsIcon</title>
+<path d="M14 4.667v10.667h-11.333v-9.109l11.333-1.558zM2.667 25.758v-9.091h11.333v10.667l-11.333-1.576zM14.667 27.302v-10.635h14.667v12.667l-14.667-2.031zM14.667 4.679l14.667-2.012v12.667h-14.667v-10.654z"></path>
+</svg>
+</div>
+<div class="icon-left hidden mac-icon">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>macIcon</title>
+<path d="M21.5 2.667c-1.537 0.089-3.302 0.946-4.352 2.036-0.948 0.992-1.696 2.465-1.391 3.891 1.671 0.044 3.348-0.835 4.352-1.945 0.937-1.039 1.648-2.488 1.391-3.982zM21.591 8.591c-2.412 0-3.42 1.482-5.091 1.482-1.719 0-3.29-1.388-5.37-1.388-2.829 0.001-7.13 2.622-7.13 8.797 0 5.617 5.090 11.852 7.964 11.852 1.745 0.017 2.168-1.097 4.536-1.109 2.371-0.017 2.882 1.124 4.63 1.109 1.968-0.015 3.505-2.177 4.628-3.891 0.805-1.227 1.136-1.853 1.76-3.24-4.631-1.173-5.552-8.641 0-10.185-1.048-1.788-4.107-3.427-5.927-3.427z"></path>
+</svg>
+</div>
+Download Probuilds
+</div>
+</a>
+<select class="lang" style="display: block; width: 20%; height: 35px; margin-top: 6px; float: right; background: #242423; color: #fff; cursor: pointer;" id="changeLangOption">
+<option value="">
+Select a language </option>
+<option value="en_US">English </option>
+<option value="de_DE">Deutsch </option>
+<option value="es_ES">Español </option>
+<option value="fr_FR">Français </option>
+<option value="it_IT">Italiano </option>
+<option value="pt_BR">Português </option>
+<option value="pl_PL">Polski </option>
+<option value="ru_RU">Русский </option>
+<option value="tr_TR">Türkçe </option>
+<option value="el_GR">Ελληνικά </option>
+<option value="ko_KR">한국어 </option>
+<option value="zh_CN">简体中文 </option>
+<option value="zh_TW">繁體中文 </option>
+</select>
+</div>
+</header>
+<div id="template_skin_leaderboard">
+
+<div class="welcomemodule">
+<div style="text-align: center; margin-bottom: 10px; min-height: 90px !important;">
+<div class="pb-root">
+<a class="dl-blitz-root dl-blitz-horizontal-root" target="_blank" href="https://blitz.gg/lol/download#features?utm_source=pb&amp;utm_campaign=dl_2">
+<div class="dl-blitz-horizontal">
+<div class="title-text-container">
+<span class="bold-text">
+Import Runes, Summoners, and Builds into League.
+</span>
+<span class="accent-text">Automatically.</span>
+</div>
+<div class="dl-blitz-btn">
+<div class="icon-left hidden win-icon" style="display: block;">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>windowsIcon</title>
+<path d="M14 4.667v10.667h-11.333v-9.109l11.333-1.558zM2.667 25.758v-9.091h11.333v10.667l-11.333-1.576zM14.667 27.302v-10.635h14.667v12.667l-14.667-2.031zM14.667 4.679l14.667-2.012v12.667h-14.667v-10.654z"></path>
+</svg>
+</div>
+<div class="icon-left hidden mac-icon">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>macIcon</title>
+<path d="M21.5 2.667c-1.537 0.089-3.302 0.946-4.352 2.036-0.948 0.992-1.696 2.465-1.391 3.891 1.671 0.044 3.348-0.835 4.352-1.945 0.937-1.039 1.648-2.488 1.391-3.982zM21.591 8.591c-2.412 0-3.42 1.482-5.091 1.482-1.719 0-3.29-1.388-5.37-1.388-2.829 0.001-7.13 2.622-7.13 8.797 0 5.617 5.090 11.852 7.964 11.852 1.745 0.017 2.168-1.097 4.536-1.109 2.371-0.017 2.882 1.124 4.63 1.109 1.968-0.015 3.505-2.177 4.628-3.891 0.805-1.227 1.136-1.853 1.76-3.24-4.631-1.173-5.552-8.641 0-10.185-1.048-1.788-4.107-3.427-5.927-3.427z"></path>
+</svg>
+</div>
+<span>Download</span>
+</div>
+</div>
+</a>
+<div id="div-gpt-ad-1439337018753-14" adonis-marker="">
+<script type="text/javascript">
+      googletag.cmd.push(function () {
+        googletag.display("div-gpt-ad-1439337018753-14");
+      });
+    </script>
+<div id="google_ads_iframe_/22280732/Probuilds_728x90_Other_ATF1_0__container__" style="border: 0pt none; width: 320px; height: 0px;"></div></div>
+<span class="bt-uid-tg" data-uid="5b15aefea4-185" style="display: none !important;"></span>
+</div>
+</div>
+<div style="height: 270px;" class="wrap">
+<div class="welcome">
+<form class="search pos-rel">
+<span class="twitter-typeahead" style="position: relative; display: inline-block;"><input class="tt-hint" type="text" autocomplete="off" spellcheck="off" disabled="" style="position: absolute; top: 0px; left: 0px; border-color: transparent; box-shadow: none; background: none 0px 0px / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);"><input type="text" class="search-ahead tt-query" name="search" placeholder="Search" for="" a="" pro="" player,="" team="" or="" champion="" by="" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top; background-color: transparent;"><span style="position: absolute; left: -9999px; visibility: hidden; white-space: nowrap; font-family: &quot;roboto condensed&quot;, Verdana, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></span><span class="tt-dropdown-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none;">
+    <a class="dl-blitz-search-root dl-blitz-immediate experiment-default-disabled" data-label="top-of-search-result" data-action="ad-click" href="https://blitz.gg/download/win">
+      <div class="dl-blitz-search-text-container"> 
+        <div class="dl-blitz-search-logos-container">
+          <div class="dl-blitz-search-logo-blitz"></div>
+          <div class="dl-blitz-x"> X </div>
+          <div class="dl-blitz-search-logo-probuilds"> </div>
+        </div>
+        <span>Save time and Import Pro Runes &amp; Builds directly into your client.<span>
+      </span></span></div>
+      <div class="dl-blitz-search-btn-container"> 
+        <div class="dl-blitz-search-btn">
+          Get Blitz App
+        </div>
+      </div>
+    </a>
+  </span></span>
+<input class="right" type="submit" disabled="" value="">
+</form>
+<img class="team-logo" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/teams/team_logos/150x150/flyquest.png">
+<input type="hidden" value="189" id="seoName">
+<h1 class="team-name">FlyQuest</h1>
+</div>
+<div class="welcome-bnr">
+<div id="top-300" class="bnr-placement" style="width:300px;margin:auto">
+<div class="pb-root">
+<a class="dl-blitz-root dl-blitz-inline-root" target="_blank" href="https://blitz.gg/lol/download#features?utm_source=pb&amp;utm_campaign=dl_3">
+<div class="dl-blitz-inline">
+<div class="title-text-container">
+<span class="bold-text">Import Runes, Summoners, and Builds into League.</span>
+<span class="accent-text">Automatically.</span>
+</div>
+<span class="subtitle-text">
+Faster scouting, tier lists, and counter tips during drafting and in game
+</span>
+<div class="dl-blitz-btn">
+<div class="icon-left hidden win-icon" style="display: block;">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>windowsIcon</title>
+<path d="M14 4.667v10.667h-11.333v-9.109l11.333-1.558zM2.667 25.758v-9.091h11.333v10.667l-11.333-1.576zM14.667 27.302v-10.635h14.667v12.667l-14.667-2.031zM14.667 4.679l14.667-2.012v12.667h-14.667v-10.654z"></path>
+</svg>
+</div>
+<div class="icon-left hidden mac-icon">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>macIcon</title>
+<path d="M21.5 2.667c-1.537 0.089-3.302 0.946-4.352 2.036-0.948 0.992-1.696 2.465-1.391 3.891 1.671 0.044 3.348-0.835 4.352-1.945 0.937-1.039 1.648-2.488 1.391-3.982zM21.591 8.591c-2.412 0-3.42 1.482-5.091 1.482-1.719 0-3.29-1.388-5.37-1.388-2.829 0.001-7.13 2.622-7.13 8.797 0 5.617 5.090 11.852 7.964 11.852 1.745 0.017 2.168-1.097 4.536-1.109 2.371-0.017 2.882 1.124 4.63 1.109 1.968-0.015 3.505-2.177 4.628-3.891 0.805-1.227 1.136-1.853 1.76-3.24-4.631-1.173-5.552-8.641 0-10.185-1.048-1.788-4.107-3.427-5.927-3.427z"></path>
+</svg>
+</div>
+<span>Download Free <span class="for-platform">for Windows</span></span>
+</div>
+</div>
+</a>
+<div id="div-gpt-ad-1439337018753-6" adonis-marker="">
+<script type="text/javascript">
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1439337018753-6'); });
+                </script>
+<div id="google_ads_iframe_/22280732/Probuilds_300x250_Other_ATF1_0__container__" style="border: 0pt none; width: 300px; height: 0px;"></div></div>
+<span class="bt-uid-tg" data-uid="5b15aee8f0-185" style="display: none !important"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div id="maincontent" class="page">
+<div id="container">
+
+<div class="module">
+<input type="hidden" id="teamId" name="teamId" value="189">
+<div class="wrap">
+<div class="pro-player-champion-builds pro-player-feed-5">
+<header>
+<h2>
+<a href="/feed">Team History</a>
+<span class="h2-addenum">(
+<span class="gold" id="gamesAmount">Last 10 Games Played</span>
+)
+</span>
+</h2>
+<div class="lane-region-filters">
+<div class="lane-selection">
+<a class="all" data-lane="">All</a>
+<a class="top" data-lane="top">Top</a>
+<a class="jungle" data-lane="jungle">Jungle</a>
+<a class="mid" data-lane="middle">Mid</a>
+<a class="bot" data-lane="bottom">Bot</a>
+<a class="support" data-lane="support">Support</a>
+</div>
+<select class="filter-dropdown">
+<option value="">All Region</option>
+<option value="na">NA</option>
+<option value="br">BR</option>
+<option value="euw">EU</option>
+<option value="kr">KR</option>
+<option value="oce">OCE</option>
+<option value="tr">TR</option>
+</select>
+</div>
+</header>
+<div id="game-feed" class="game-feed pro-history pos-rel">
+<header class="header">
+<div class="time">Saturday, January 22nd, 2022</div>
+<div class="player">Player</div>
+<div class="opponent-text">VS.</div>
+<div class="kda">KDA</div>
+<div class="_gold">Gold</div>
+<div class="keystones">Keystone</div>
+</header>
+<div class="loading pos-abs text-center" style="opacity: 0.552049;"><img class="pos-abs" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/loading.gif"></div><div class="build-holder live-feed" style="overflow: hidden; height: 41.8817px; padding: 0px; margin: 0px 0px 3.5644px; width: 846.545px; opacity: 0.8911;">
+    <a href="/guide/show/na1/4181603182/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307823172">
+            <div class="time">4 days ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img winborder"><img class="tooltip tooltipstered" data-id="23" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Tryndamere.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="86" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Garen.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">6</span> /
+                <span class="death red">5</span> /
+                <span class="assists gold">8</span>
+            </div>
+            <div class="_gold gold">13.2k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7204_Resolve.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6694" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6694.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6675" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6675.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6672" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6672.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1055" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1055.png">
+                                    </div>
+                                <div class="slot">
+                                            <img alt="" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/EmptyIcon.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="6" data-version="11.24.1" alt="Spettralità" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerHaste.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Tryndamere Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Tryndamere_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4181568492/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307823135">
+            <div class="time">4 days ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img loseborder"><img class="tooltip tooltipstered" data-id="23" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Tryndamere.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="266" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Aatrox.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">1</span> /
+                <span class="death red">6</span> /
+                <span class="assists gold">0</span>
+            </div>
+            <div class="_gold gold">7.9k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/FleetFootwork/FleetFootwork.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7204_Resolve.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1037" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1037.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1055" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1055.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3123" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3123.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6672" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6672.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1018" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1018.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="6" data-version="11.24.1" alt="Spettralità" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerHaste.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Tryndamere Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Tryndamere_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4170300556/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808742">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img loseborder"><img class="tooltip tooltipstered" data-id="98" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Shen.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="23" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Tryndamere.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">5</span> /
+                <span class="death red">5</span> /
+                <span class="assists gold">7</span>
+            </div>
+            <div class="_gold gold">11.5k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7200_Domination.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3748" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3748.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3067" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3067.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3076" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3076.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3068" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3068.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3082" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3082.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="14" data-version="11.24.1" alt="Ustione" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerDot.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Shen Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Shen_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4170270890/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808715">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img winborder"><img class="tooltip tooltipstered" data-id="887" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Gwen.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="777" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Yone.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">14</span> /
+                <span class="death red">3</span> /
+                <span class="assists gold">7</span>
+            </div>
+            <div class="_gold gold">16.6k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/Conqueror/Conqueror.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7204_Resolve.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3157" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3157.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1058" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1058.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="4629" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/4629.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3115" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3115.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="4633" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/4633.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="12" data-version="11.24.1" alt="Teletrasporto" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerTeleport.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="14" data-version="11.24.1" alt="Ustione" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerDot.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Gwen Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Gwen_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4170230959/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808677">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img loseborder"><img class="tooltip tooltipstered" data-id="84" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Akali.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="875" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Sett.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">3</span> /
+                <span class="death red">5</span> /
+                <span class="assists gold">8</span>
+            </div>
+            <div class="_gold gold">7.7k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/Conqueror/Conqueror.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7204_Resolve.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1006" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1006.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3152" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3152.png">
+                                    </div>
+                                <div class="slot">
+                                            <img alt="" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/EmptyIcon.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1058" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1058.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3145" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3145.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="12" data-version="11.24.1" alt="Teletrasporto" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerTeleport.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Akali Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Akali_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4170170339/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808651">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img loseborder"><img class="tooltip tooltipstered" data-id="516" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Ornn.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="78" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Poppy.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">5</span> /
+                <span class="death red">6</span> /
+                <span class="assists gold">8</span>
+            </div>
+            <div class="_gold gold">11.2k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7203_Whimsy.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3143" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3143.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1028" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1028.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6662" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6662.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3119" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3119.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3076" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3076.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="12" data-version="11.24.1" alt="Teletrasporto" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerTeleport.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Ornn Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Ornn_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4170027680/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808604">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img loseborder"><img class="tooltip tooltipstered" data-id="23" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Tryndamere.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="126" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Jayce.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">1</span> /
+                <span class="death red">6</span> /
+                <span class="assists gold">2</span>
+            </div>
+            <div class="_gold gold">10.9k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Precision/LethalTempo/LethalTempoTemp.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7204_Resolve.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6671" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6671.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6675" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6675.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1038" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1038.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1037" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1037.png">
+                                    </div>
+                                <div class="slot">
+                                            <img alt="" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/EmptyIcon.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="6" data-version="11.24.1" alt="Spettralità" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerHaste.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Tryndamere Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Tryndamere_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4170051913/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808569">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img winborder"><img class="tooltip tooltipstered" data-id="516" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Ornn.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="41" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Gangplank.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">2</span> /
+                <span class="death red">2</span> /
+                <span class="assists gold">5</span>
+            </div>
+            <div class="_gold gold">5.8k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7203_Whimsy.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6662" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6662.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1028" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1028.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3070" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3070.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1054" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1054.png">
+                                    </div>
+                                <div class="slot">
+                                            <img alt="" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/EmptyIcon.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="12" data-version="11.24.1" alt="Teletrasporto" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerTeleport.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Ornn Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Ornn_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4169971936/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808537">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img loseborder"><img class="tooltip tooltipstered" data-id="126" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Jayce.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="69" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Cassiopeia.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">5</span> /
+                <span class="death red">5</span> /
+                <span class="assists gold">2</span>
+            </div>
+            <div class="_gold gold">11.6k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Inspiration/FirstStrike/FirstStrike.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7202_Sorcery.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6692" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6692.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3004" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3004.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3035" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3035.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3133" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3133.png">
+                                    </div>
+                                <div class="slot">
+                                            <img alt="" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/EmptyIcon.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="12" data-version="11.24.1" alt="Teletrasporto" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerTeleport.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Jayce Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Jayce_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div><div class="build-holder live-feed" style="overflow: hidden; height: 40.9931px; padding: 0px; margin: 0px 0px 3.48877px; width: 828.584px; opacity: 0.872194;">
+    <a href="/guide/show/na1/4169917259/vM-DD0cT2hIJpftxQJmHcRhtitxULroG6GY0o30uG5N3_WE" class="live-feed-match-link">
+        <div class="block">
+            <input type="hidden" value="307808520">
+            <div class="time">1 week ago</div>
+            <div class="champ">
+                                                                                            <div class="left champ-img loseborder"><img class="tooltip tooltipstered" data-id="516" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Ornn.png" alt=""></div>
+                                                    <div style="margin-right: 0px;" class="champ-img"><img style="background: black;" class="tooltip tooltipstered" data-type="pro" data-id="5851" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png"></div>
+            </div>
+            <div class="player gold">
+                <div class="gold" href="/players/5851">Kumo</div>
+            </div>
+            <div class="opponent">
+                                                    <img class="tooltip tooltipstered" data-id="875" data-type="champions" data-version="11.24.1" src="//ddragon.leagueoflegends.com/cdn/11.24.1/img/champion/Sett.png" alt="">
+                            </div>
+            <div class="kda">
+                <span class="kill green">1</span> /
+                <span class="death red">4</span> /
+                <span class="assists gold">0</span>
+            </div>
+            <div class="_gold gold">4.9k</div>
+            <div class="keystonerune">
+                                        <img src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Resolve/GraspOfTheUndying/GraspOfTheUndying.png">
+                        </div>
+            <div class="substylerune">
+                                        <img class="substyle" src="//ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/7203_Whimsy.png">
+                        </div>
+            <div class="items">
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="1054" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/1054.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="6662" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/6662.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3070" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3070.png">
+                                    </div>
+                                <div class="slot">
+                                            <img class="tooltip tooltipstered" data-id="3076" data-type="items" data-version="11.24.1" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/item/3076.png">
+                                    </div>
+                                <div class="slot">
+                                            <img alt="" src="https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/EmptyIcon.png">
+                                    </div>
+                            </div>
+            <div class="summoners">
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="4" data-version="11.24.1" alt="Flash" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerFlash.png">
+                        </div>
+            <div class="slot">
+                                        <img class="tooltip tooltipstered" data-type="summoners" data-id="12" data-version="11.24.1" alt="Teletrasporto" src="https://ddragon.leagueoflegends.com/cdn/11.24.1/img/spell/SummonerTeleport.png">
+                        </div>
+            </div>
+        </div>
+    </a>
+    <div class="build-a-b">
+        <a class="full-width dl-blitz-champion-details live-feed-experiment-link experiment-height-default">
+            <div class="logo-container">
+              <div class="blitz-logo"></div>
+            </div> 
+            <div class="dl-blitz-pitch">
+                <span class="dl-blitz-pitch-text small-text">
+                 Import Kumo's Ornn Build directly into your League client.
+                 <span class="red-emphasis-text" style="margin-left:3px;">Automatically.</span>
+                </span>
+                <div class="dl-blitz-btn wide">
+                  Download Blitz App
+                </div>
+                  <div class="dl-blitz-champ-splash hug-right" style="background-position: center -57px; background-image: url(https://blitz-cdn.blitz.gg/blitz/centered/Ornn_Splash_Centered_0.jpg);">
+                </div>
+                  <div class="dl-blitz-gradient long-gradient">  </div>
+                  <div class="dl-blitz-gradient-grey"></div>
+            </div>
+          </a>
+    </div>
+</div></div>
+<div class="mt10 view-more">
+<span class="bright-button block" id="moreMatchesButtonContainer">
+<a id="moreMatchesButton" class="block text-center" style="">View More</a>
+<a id="loadingButton" class="block text-center" style="display: none;">Loading...</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="module">
+<div class="wrap">
+<div class="pro-player-search-results">
+<h2>Team Roster</h2>
+<ul>
+<li class="left">
+<a class="block tooltip tooltipstered" href="/pros/details/5611" data-type="pro" data-id="5611">
+<div class="playerimage" style="background-size: 75px; background:url(https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/dreams.png) #000000 no-repeat center;text-indent: -1000px; overflow: hidden;">Dreams</div>
+<div class="playerdetails">
+<h3 class="name">Dreams</h3>
+<p class="role">dreams</p>
+
+</div>
+</a>
+</li> <li class="left">
+<a class="block tooltip tooltipstered" href="/pros/details/5851" data-type="pro" data-id="5851">
+<div class="playerimage" style="background-size: 75px; background:url(https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/kumo.png) #000000 no-repeat center;text-indent: -1000px; overflow: hidden;">Kumo</div>
+<div class="playerdetails">
+<h3 class="name">Kumo</h3>
+<p class="role">kumo</p>
+
+</div>
+</a>
+</li> <li class="left">
+<a class="block tooltip tooltipstered" href="/pros/details/6123" data-type="pro" data-id="6123">
+<div class="playerimage" style="background-size: 75px; background:url(https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/170x240/johnsun.png) #000000 no-repeat center;text-indent: -1000px; overflow: hidden;">Johnsun</div>
+<div class="playerdetails">
+<h3 class="name">Johnsun</h3>
+<p class="role">johnsun</p>
+
+</div>
+</a>
+</li> <li class="left">
+<a class="block tooltip tooltipstered" href="/pros/details/6491" data-type="pro" data-id="6491">
+<div class="playerimage" style="background-size: 75px; background:url(https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/84x84/josedeodo.png) #000000 no-repeat center;text-indent: -1000px; overflow: hidden;">Josedeodo</div>
+<div class="playerdetails">
+<h3 class="name">Josedeodo</h3>
+<p class="role">josedeodo</p>
+
+</div>
+</a>
+</li> </ul>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+
+<center>
+<div class="pb-root">
+<a class="dl-blitz-root dl-blitz-horizontal-root" target="_blank" href="https://blitz.gg/lol/download#features?utm_source=pb&amp;utm_campaign=dl_2">
+<div class="dl-blitz-horizontal">
+<div class="title-text-container">
+<span class="bold-text">
+Import Runes, Summoners, and Builds into League.
+</span>
+<span class="accent-text">Automatically.</span>
+</div>
+<div class="dl-blitz-btn">
+<div class="icon-left hidden win-icon" style="display: block;">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>windowsIcon</title>
+<path d="M14 4.667v10.667h-11.333v-9.109l11.333-1.558zM2.667 25.758v-9.091h11.333v10.667l-11.333-1.576zM14.667 27.302v-10.635h14.667v12.667l-14.667-2.031zM14.667 4.679l14.667-2.012v12.667h-14.667v-10.654z"></path>
+</svg>
+</div>
+<div class="icon-left hidden mac-icon">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>macIcon</title>
+<path d="M21.5 2.667c-1.537 0.089-3.302 0.946-4.352 2.036-0.948 0.992-1.696 2.465-1.391 3.891 1.671 0.044 3.348-0.835 4.352-1.945 0.937-1.039 1.648-2.488 1.391-3.982zM21.591 8.591c-2.412 0-3.42 1.482-5.091 1.482-1.719 0-3.29-1.388-5.37-1.388-2.829 0.001-7.13 2.622-7.13 8.797 0 5.617 5.090 11.852 7.964 11.852 1.745 0.017 2.168-1.097 4.536-1.109 2.371-0.017 2.882 1.124 4.63 1.109 1.968-0.015 3.505-2.177 4.628-3.891 0.805-1.227 1.136-1.853 1.76-3.24-4.631-1.173-5.552-8.641 0-10.185-1.048-1.788-4.107-3.427-5.927-3.427z"></path>
+</svg>
+</div>
+<span>Download</span>
+</div>
+</div>
+</a>
+<div id="div-gpt-ad-1439337018753-15" adonis-marker="">
+<script type="text/javascript">
+      googletag.cmd.push(function () {
+        googletag.display("div-gpt-ad-1439337018753-15");
+      });
+    </script>
+<div id="google_ads_iframe_/22280732/Probuilds_728x90_Other_BTF1_0__container__" style="border: 0pt none; width: 320px; height: 0px;"></div></div>
+<span class="bt-uid-tg" data-uid="5b15af052b-185" style="display: none !important;"></span>
+</div>
+</center>
+</div>
+</div>
+<footer class="footer">
+<div class="wrap">
+<section class="footer-nav">
+<div class="footer__section">
+<h2>Probuilds</h2>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/pros">Pros</a></li>
+<li><a href="/champions">Champions</a></li>
+<li><a href="/teams">Teams</a></li>
+</ul>
+<ul>
+<li><a href="/feed">Live Feed</a></li>
+<li><a href="/feedback">Feedback</a></li>
+<li><a href="mailto:ads@blitz.gg">Advertise with us</a></li>
+</ul>
+</div>
+<div class="footer__section">
+<h2>Blitz Inc.</h2>
+<ul>
+<li><a target="_blank" href="https://blitz.gg/">Blitz App</a></li>
+<li><a target="_blank" href="https://www.pubg.net/">PUBG</a></li>
+<li><a target="_blank" href="https://www.champion.gg/">ChampionGG</a></li>
+<li><a target="_blank" href="https://www.solomid.net/">Guides</a></li>
+<li><a target="_blank" href="https://tsmshop.com">Shop</a></li>
+<li><a target="_blank" href="https://championselect.net/">ChampionSelect</a></li>
+</ul>
+<ul>
+<li><a target="_blank" href="https://www.lolcounter.com/">LoL Counter</a></li>
+<li><a target="_blank" href="https://fortnitemaster.com/">FortniteMaster</a></li>
+<li><a target="_blank" href="https://statsrealmroyale.com/">StatsRealmRoyale</a></li>
+<li><a target="_blank" href="https://www.dotahut.com/">DotaHut</a></li>
+<li><a href="https://www.blitz.gg/tos">Terms of Service</a></li>
+<li><a href="https://www.blitz.gg/privacy-policy">Privacy Policy</a></li>
+<li><a href="/feedback">Contact Us</a></li>
+</ul>
+</div>
+</section>
+<section>
+<section class="footer__section connect">
+<h2>Connect with us</h2>
+<ul style="width: 270px;">
+<li class="facebook"><i class="fa fa-facebook"></i><a href="https://www.facebook.com/SoloMidDotNet">Facebook</a></li>
+<li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/TeamSoloMid">Twitter</a></li>
+<li class="youtube"><i class="fa fa-youtube-play"></i><a href="https://www.youtube.com/user/SolomidDOTNet/featured">YouTube</a></li>
+</ul>
+</section>
+<p class="footer__section">© 2009-2022 Blitz Inc.</p>
+</section>
+<div class="copyright right">
+<div class="bnr-placement" id="bot-300">
+<div class="pb-root">
+<a class="dl-blitz-root dl-blitz-inline-root" target="_blank" href="https://blitz.gg/lol/download#features?utm_source=pb&amp;utm_campaign=dl_3">
+<div class="dl-blitz-inline">
+<div class="title-text-container">
+<span class="bold-text">Import Runes, Summoners, and Builds into League.</span>
+<span class="accent-text">Automatically.</span>
+</div>
+<span class="subtitle-text">
+Faster scouting, tier lists, and counter tips during drafting and in game
+</span>
+<div class="dl-blitz-btn">
+<div class="icon-left hidden win-icon" style="display: block;">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>windowsIcon</title>
+<path d="M14 4.667v10.667h-11.333v-9.109l11.333-1.558zM2.667 25.758v-9.091h11.333v10.667l-11.333-1.576zM14.667 27.302v-10.635h14.667v12.667l-14.667-2.031zM14.667 4.679l14.667-2.012v12.667h-14.667v-10.654z"></path>
+</svg>
+</div>
+<div class="icon-left hidden mac-icon">
+<svg viewBox="0 0 32 32" class="svg-icon">
+<title>macIcon</title>
+<path d="M21.5 2.667c-1.537 0.089-3.302 0.946-4.352 2.036-0.948 0.992-1.696 2.465-1.391 3.891 1.671 0.044 3.348-0.835 4.352-1.945 0.937-1.039 1.648-2.488 1.391-3.982zM21.591 8.591c-2.412 0-3.42 1.482-5.091 1.482-1.719 0-3.29-1.388-5.37-1.388-2.829 0.001-7.13 2.622-7.13 8.797 0 5.617 5.090 11.852 7.964 11.852 1.745 0.017 2.168-1.097 4.536-1.109 2.371-0.017 2.882 1.124 4.63 1.109 1.968-0.015 3.505-2.177 4.628-3.891 0.805-1.227 1.136-1.853 1.76-3.24-4.631-1.173-5.552-8.641 0-10.185-1.048-1.788-4.107-3.427-5.927-3.427z"></path>
+</svg>
+</div>
+<span>Download Free <span class="for-platform">for Windows</span></span>
+</div>
+</div>
+</a>
+<div id="div-gpt-ad-1439337018753-7" adonis-marker="">
+<script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1439337018753-7'); });
+        </script>
+<div id="google_ads_iframe_/22280732/Probuilds_300x250_Other_BTF1_0__container__" style="border: 0pt none; width: 300px; height: 0px;"></div></div>
+<span class="bt-uid-tg" data-uid="5b15aef101-185" style="display: none !important"></span>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-throttle-debounce/1.1/jquery.ba-throttle-debounce.min.js"></script>
+<script type="text/javascript" src="/js/vendor/jquery.tooltipster.min.js"></script>
+<script src="https://cdn.ravenjs.com/3.22.1/raven.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/js/vendor/jquery.quicksand.js"></script>
+<script type="text/javascript" src="/js/vendor/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/js/vendor/pusher.min.js"></script>
+<script type="text/javascript" src="/js/main/probuildsv3.js"></script>
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+<script type="text/javascript" id="" src="//get.s-onetag.com/ecb12bc6-03b5-4fa2-8d45-40be9433732e/tag.min.js"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","738447226621711");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=738447226621711&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">(function(){function n(){function h(){var a=b.document,c=!!b.frames[k];if(!c)if(a.body){var d=a.createElement("iframe");d.style.cssText="display:none";d.name=k;a.body.appendChild(d)}else setTimeout(h,5);return!c}function u(){var a=arguments;if(a.length)if("setGdprApplies"===a[0]){if(3<a.length&&2===a[2]&&"boolean"===typeof a[3]&&"function"===typeof a[2])a[2]("set",!0)}else if("ping"===a[0]){var c={gdprApplies:c,cmpLoaded:!1,cmpStatus:"stub"};if("function"===typeof a[2])a[2](c)}else p.push(a);else return p}
+function v(a){var c="string"===typeof a.data,d={};try{d=c?JSON.parse(a.data):a.data}catch(e){}var g=d.__tcfapiCall;g&&window.__tcfapi(g.command,g.version,function(e,w){e={__tcfapiReturn:{returnValue:e,success:w,callId:g.callId}};c&&(e=JSON.stringify(e));a.source.postMessage(e,"*")},g.parameter)}for(var k="__tcfapiLocator",p=[],b=window,q;b;){try{if(b.frames[k]){q=b;break}}catch(a){}if(b===window.top)break;b=b.parent}q||(h(),b.__tcfapi=u,b.addEventListener("message",v,!1))}var l=window.location.hostname,
+f=document.createElement("script"),r=document.getElementsByTagName("script")[0],x=(new Date).getTime();l="https://quantcast.mgr.consensu.org".concat("/choice/","gZzLr0R4qLK_S","/",l,"/choice.js").concat("?timestamp\x3d",x);var t=0,y=3;f.async=!0;f.type="text/javascript";f.src=l;r.parentNode.insertBefore(f,r);"undefined"!==typeof module?module.exports=n:n();var m=function(){var h=arguments;typeof window.__uspapi!==m&&setTimeout(function(){"undefined"!==typeof window.__uspapi&&window.__uspapi.apply(window.__uspapi,
+h)},500)};f=function(){t++;window.__uspapi===m&&t<y?console.warn("USP is not accessible"):clearInterval(z)};if("undefined"===typeof window.__uspapi){window.__uspapi=m;var z=setInterval(f,6E3)}})();</script><iframe name="__tcfapiLocator" style="display: none;"></iframe>
+<script type="text/javascript" id="" src="https://tagan.adlightning.com/solomid-gtm/op.js"></script> 
+ <script type="text/javascript" id="dm-script" charset="utf-8" src="https://tag.durationmedia.net/sites/10291/dm.js"></script>
+
+
+<script id="loading-tooltip" type="text/x-handlebars-template">
+  <svg width='60px' height='60px' xmlns="https://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-default"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(0 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(30 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(60 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(90 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(120 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(150 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(180 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(210 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(240 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(270 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(300 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#ffc400' transform='rotate(330 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/></rect></svg>
+</script>
+<script id="champions-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-champions'>
+      <table class='champ-tooltip-table'>
+        <tr>
+          <td rowspan='7' class='v-middle pr10'>
+            <div class='left champ-img'>
+              <img src='https://ddragon.leagueoflegends.com/cdn/{{version}}/img/champion/{{image.full}}' alt='{{name}}' />
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <th colspan='3' class='gold bold pb10 pt5'>
+            {{name}}, {{title}}
+          </th>
+        </tr>
+        <tr>
+          <td>Health:
+            <span class='gold'>
+              {{stats.hp}}
+            </span>
+            (
+             <span class='green'>
+               +{{stats.hpperlevel}}
+             </span>
+             )
+           </td>
+           <td>
+             Attack:
+             <span class='gold'>
+               {{stats.attackdamage}}
+             </span>
+             (
+             <span class='green'>
+              +{{stats.attackdamageperlevel}}
+            </span>
+            )
+          </td>
+        </tr>
+        <tr>
+          <td class='pr10'>
+            Health Regen:
+            <span class='gold'>
+              {{stats.hpregen}}
+            </span>
+            (
+             <span class='green'>
+               +{{stats.hpregenperlevel}}
+             </span>
+             )
+           </td>
+           <td>
+             Armor:
+             <span class='gold'>
+               {{stats.armor}}
+             </span>
+             (
+             <span class='green'>
+              +{{stats.armorperlevel}}
+            </span>
+            )
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Mana:
+            <span class='gold'>
+              {{stats.mp}}
+            </span>
+            (
+             <span class='green'>
+               +{{stats.mpperlevel}}
+             </span>
+             )
+           </td>
+           <td>
+             Magic Resist:
+             <span class='gold'>
+               {{stats.spellblock}}
+             </span>
+             (
+             <span class='green'>
+              +{{stats.spellblockperlevel}}
+            </span>
+            )
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Mana Regen:
+            <span class='gold'>
+              {{stats.mpregen}}
+            </span>
+            (
+             <span class='green'>
+               +{{stats.mpregenperlevel}}
+             </span>
+             )
+           </td>
+           <td>
+             Move Speed:
+             <span class='gold'>
+               {{stats.movespeed}}
+             </span>
+           </td>
+         </tr>
+         <tr>
+           <td>
+             Range:
+             <span class='gold'>
+               {{stats.attackrange}}
+             </span>
+           </td>
+         </tr>
+       </table>
+     </div>
+  </script>
+<script id="summoners-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-summoners'>
+      <p class='gold bold'>{{name}}</p>
+      <p>{{description}}</p>
+    </div>
+  </script>
+<script id="items-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-items'>
+      <div class='p5'>
+        <div class='left mr10' style='width:60px;'>
+          <span class='item icon50x50'>
+            <img class='icon50x50 border-1' src='https://ddragon.leagueoflegends.com/cdn/{{version}}/img/item/{{image.full}}' />
+          </span>
+        </div>
+        <div style='margin-left:70px;'>
+          <p class='bold gold'>
+            {{name}}
+          </p>
+          <div class='mt10'>
+            {{{description}}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </script>
+<script id="teams-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-teams'>
+      <div class='p5'>
+        <div class='left mr10' style='width:60px;'>
+          <span class='item icon50x50'>
+            <img class='icon50x50 border-1' src='{{portrait}}' />
+          </span>
+        </div>
+        <div style='margin-left:70px;'>
+          <p class='bold gold'>
+            {{name}}
+          </p>
+          <div class='mt10'>
+            Region: {{region}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </script>
+<script id="pros-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-pros'>
+      <div class='p5'>
+        <div class='left mr10' style='width:60px;'>
+          <span class='item icon50x50'>
+            <img class='icon50x50 border-1' src='{{portrait}}' />
+          </span>
+        </div>
+        <div style='margin-left:70px;'>
+          <p class='bold gold'>
+            {{name}}
+          </p>
+          <div class='mt10'>
+            {{role}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </script>
+<script id="runes-tooltip" type="text/x-handlebars-template>
+    <div class=" tt-wrapper="" tt-runes'="">
+      <p class='bold gold'>{{name}}</p>
+      <p>{{description}}</p>
+    </div>
+  </script>
+<script id="skills-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-items'>
+      <div class='p5'>
+        <div class='left mr10' style='width:60px;'>
+          <span class='item icon50x50'>
+            <img class='icon50x50 border-1' src='https://ddragon.leagueoflegends.com/cdn/{{version}}/img/spell/{{image.full}}' />
+          </span>
+        </div>
+        <div style='margin-left:70px;'>
+          <p class='bold gold'>
+            {{name}}
+          </p>
+          <div class='mt10'>
+            <p>
+              Cost: 
+              <span class='gold'>
+                {{cost}}
+              </span>
+            </p>
+            <p>
+              Cooldown: 
+              <span class='gold'>
+                {{cooldown}}
+              </span>
+            </p>
+            <p>
+              Range: 
+              <span class='gold'>
+                {{range}}
+              </span>
+            </p>
+          </div>
+          <div class='mt10'>
+            {{{description}}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </script>
+<script id="masteries-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-masteries'>
+      <p class='gold bold'>{{name}}&nbsp;
+      </p>
+      <p>
+        {{#each description}}
+          <div>{{{ this }}}</div>
+        {{/each}}
+      </p>
+    </div>
+  </script>
+<script id="too-new-tooltip" type="text/x-handlebars-template">
+    <div class='tt-wrapper tt-teams'>
+      <div class='p5'>
+        <div class='left mr10' style='width:60px;'>
+          <span class='item icon50x50'>
+            <img class='icon50x50 border-1' src='{{image}}' />
+          </span>
+        </div>
+        <div style='margin-left:70px;'>
+          <div class='mt10'>
+            <p> This is a brand new addition to the game. Information will be available soon.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </script>
+<script id="new-game-insert" type="text/x-handlebars-template">
+        <a href='/guide/show/{{ region }}/{{ matchId }}/{{ summonerId }}'>
+            <div class='block'>
+                <div class='rowl'></div>
+                <div class='time'>Just now</div>
+                <div class='champ'>
+                   <div class='left champ-img'>
+                    {{#champion.tooNew}}
+                        <img class='tooltip' data-flag='too_new' src='https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/TooNewIcon.png' />
+                    {{/champion.tooNew}}
+                    {{#champion.valid}}
+                        <img class='tooltip' data-id={{champion.id}} data-type=champions data-version='{{ staticVersion }}' src='https://ddragon.leagueoflegends.com/cdn/{{ staticVersion }}/img/champion/{{champion.image}}' alt='{{champion.name}}' />
+                    {{/champion.valid}}
+                    </div>
+                    <img class='tooltip' data-type='pros' data-id='{{proData.id}}' src='https://dc75lzxypo94l.cloudfront.net/probuilds/img/pros/{{proData.image }}'>
+                </div>
+                <div class='player gold'>
+                    <div class='gold' href='{{ url('players/') ~ proData.id }}'>{{ proData.name }}</div>
+                </div>
+                <div class='status' type='loss'>
+                    {{#win}}
+                        <span class='green'>Won</span>
+                    {{/win}}
+                    {{#lose}}
+                        <span class='red'>Lost</span>
+                    {{/lose}}
+                </div>
+
+                <div class='kda'>
+                    <span class='kill green'>{{ kills }}</span> /
+                    <span class='death red'>{{ deaths }}</span> /
+                    <span class='assists gold'>{{ assists }}</span>
+                </div>
+                <div class='_gold gold'>{{ goldEarned }}k</div>
+                <div class='items'>
+                    {{#items}}
+                    <div class='slot'>
+                        {{#skip}}
+                            <img alt='' src='https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/EmptyIcon.png'>
+                        {{/skip}}
+                        {{#tooNew}}
+                            <img class='tooltip' data-flag='too_new' src='https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/TooNewIcon.png'>
+                        {{/tooNew}}
+                        {{#valid}}
+                            <img class='tooltip' data-id='{{id}}' data-type='items' data-version='{{ staticVersion }}' src='https://ddragon.leagueoflegends.com/cdn/{{ staticVersion }}/img/item/{{ image }}'>
+                        {{/valid}}
+                    </div>
+                    {{/items}}
+                </div>
+                <div class='summoners'>
+                    <div class='slot'>
+                    {{#summoner1.tooNew}}
+                        <img class='tooltip' data-flag='too_new' src='https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/TooNewIcon.png'>
+                    {{/summoner1.tooNew}}
+                    {{#summoner1.valid}}
+                        <img class='tooltip' data-type='summoners' data-id='{{summoner1.id}}' data-version='{{ staticVersion }}' alt='{{summoner1.name}}' src='https://ddragon.leagueoflegends.com/cdn/{{ staticVersion }}/img/spell/{{ summoner1.image }}'>
+                    {{/summoner1.valid}}
+                    </div>
+                    <div class='slot'>
+                    {{#summoner2.tooNew}}
+                        <img class='tooltip' data-flag='too_new' src='https://dc75lzxypo94l.cloudfront.net/probuilds/img/items/28/TooNewIcon.png'>
+                    {{/summoner2.tooNew}}
+                    {{#summoner2.valid}}
+                        <img class='tooltip' data-type='summoners' data-id='{{summoner2.id}}' data-version='{{staticVersion}}' alt='{{summoner2.name}}' src='https://ddragon.leagueoflegends.com/cdn/{{ staticVersion }}/img/spell/{{ summoner2.image }}'>
+                    {{/summoner2.valid}}
+                    </div>
+                </div>
+                <div class='rowr'></div>
+            </div>
+        </a>
+    </script>
+<script type="text/javascript" src="/js/vendor/handlebars-v4.0.5.js"></script>
+<script type="text/javascript" src="/js/main/tooltips.js"></script>
+<script type="text/javascript" src="/js/main/common.js"></script>
+
+<script type="text/javascript" src="https://dc75lzxypo94l.cloudfront.net/probuilds/js/searchable.js"></script>
+<script type="text/javascript" src="https://dc75lzxypo94l.cloudfront.net/probuilds/js/filter.js"></script>
+<script>
+Raven.config(
+  "https://467fa8d374e64cfc9054cb92b4f28bff@sentry.io/275953"
+).install();
+</script>
+<script type="text/javascript" src="/js/main/team.js"></script>
+
+<script type="text/javascript">
+(function() {
+  var d = new Image(1, 1);
+  d.onerror = d.onload = function() {
+    d.onerror = d.onload = null;
+  };
+  d.src = [
+    "//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&cg=0&cc=1&si=",
+    escape(window.location.href),
+    "&rp=",
+    escape(document.referrer),
+    "&ts=compact&rnd=",
+    new Date().getTime()
+  ].join("");
+})();
+</script>
+<noscript>
+    <div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /></div>
+</noscript>
+
+<script type="text/javascript" src="/assets/probuilds.js"></script>
+<a title="Web Analytics" href="https://clicky.com/101098264"><img alt="Web Analytics" src="//static.getclicky.com/media/links/badge.gif" border="0"></a>
+<script type="text/javascript">
+    var clicky_site_ids = clicky_site_ids || [];
+    clicky_site_ids.push(101098264);
+    (function() {
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = '//static.getclicky.com/js';
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+    </script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101098264ns.gif" /></p></noscript>
+
+
+
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'https://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = 'CF53E882748E4289';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<script type="text/javascript">
+    
+    (function() {
+        $("#changeLangOption").on('change', function() {
+            var key = "lang"
+            var val = $(this).val()
+            console.log("val",val)
+            var key2 = "probuild_key"
+            var val2 = new Date().getUTCMilliseconds();
+	        document.cookie = key + "=" + val + ";domain=.probuilds.net;path=/";
+            document.cookie = key2 + "=" + val2 + ";domain=.probuilds.net;path=/";
+            window.location.reload();
+        });
+    })();
+</script>
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-21ccaa45726c0f3c8c458f7a87eb2298.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+<iframe width="0" height="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" style="border: 0px; vertical-align: bottom; visibility: hidden; display: none;"></iframe><script type="text/javascript" async="" src="//in.getclicky.com/in.php?site_id=101098264&amp;type=pageview&amp;href=%2Fteams%2Fdetails%2F189&amp;title=FlyQuest%20-%20Probuilds.net&amp;res=1920x1080&amp;lang=en&amp;jsuid=3355126204&amp;mime=js&amp;x=0.1724865127512194"></script></body></html>
